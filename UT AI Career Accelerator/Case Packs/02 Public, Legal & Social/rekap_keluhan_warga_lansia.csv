@@ -1,0 +1,41 @@
+id_keluhan,tanggal,rw,kelompok_usia,jenis_kelamin,layanan,keluhan,kategori_kendala,kanal_pengaduan,status
+K-035,2026-07-07,RW 07,70-74,P,Aktivasi IKD,Disuruh kembali karena berkas kurang,Informasi persyaratan,Langsung ke loket,Selesai
+K-018,2026-07-08,RW 09,65-69,P,Pindah Datang,Unggah foto dokumen gagal,Literasi digital,Musrenbang RW,Dirujuk ke Disdukcapil
+K-040,2026-07-08,RW 09,65-69,P,Pindah Datang,"Anak/kerabat bekerja, tidak ada pendamping",Akses perangkat,Musrenbang RW,Selesai
+K-020,2026-07-16,RW 05,60-64,P,Aktivasi IKD,"Anak/kerabat bekerja, tidak ada pendamping",Akses perangkat,Kotak saran,Dirujuk ke Disdukcapil
+K-022,2026-07-20,RW 09,60-64,L,Pindah Datang,"Antrean online penuh, harus datang subuh",Proses layanan,Langsung ke loket,Selesai
+K-038,2026-07-20,RW 04,60-64,P,Pindah Datang,Tidak punya smartphone,Akses perangkat,Langsung ke loket,Belum selesai
+K-009,2026-07-21,RW 06,60-64,L,Kartu Keluarga (perubahan),Sulit berjalan/naik tangga ke loket lantai 2,Aksesibilitas fisik,Langsung ke loket,Selesai
+K-006,2026-07-23,RW 06,60-64,L,Kartu Keluarga (perubahan),Tidak bisa membuat akun/email,Literasi digital,WhatsApp kelurahan,Selesai
+K-024,2026-07-25,RW 03,70-74,P,Perekaman/cetak KTP-el,Tidak bisa membuat akun/email,Literasi digital,Kotak saran,Belum selesai
+K-031,2026-07-26,RW 08,65-69,P,Akta Kematian,Tidak bisa membuat akun/email,Literasi digital,Musrenbang RW,Dirujuk ke Disdukcapil
+K-007,2026-07-31,RW 04,60-64,P,Akta Kematian,Disuruh kembali karena berkas kurang,Informasi persyaratan,Langsung ke loket,Dirujuk ke Disdukcapil
+K-023,2026-07-31,RW 04,70-74,L,Akta Kematian,"Antrean online penuh, harus datang subuh",Proses layanan,Langsung ke loket,Belum selesai
+K-008,2026-08-01,RW 04,75+,P,Pindah Datang,Tidak tahu persyaratan,Informasi persyaratan,Langsung ke loket,Selesai
+K-028,2026-08-03,RW 04,70-74,P,Surat Keterangan Domisili,Disuruh kembali karena berkas kurang,Informasi persyaratan,Langsung ke loket,Belum selesai
+K-036,2026-08-03,RW 04,70-74,L,Kartu Keluarga (perubahan),Disuruh kembali karena berkas kurang,Informasi persyaratan,Langsung ke loket,Belum selesai
+K-025,2026-08-06,RW 03,60-64,P,Perekaman/cetak KTP-el,Tidak punya smartphone,Akses perangkat,Kotak saran,Selesai
+K-039,2026-08-08,RW 01,70-74,P,Akta Kematian,Tidak bisa membuat akun/email,Literasi digital,WhatsApp kelurahan,Selesai
+K-019,2026-08-09,RW 09,60-64,P,Pindah Datang,Tidak bisa membuat akun/email,Literasi digital,Musrenbang RW,Belum selesai
+K-032,2026-08-18,RW 04,65-69,L,Surat Keterangan Domisili,"Antrean online penuh, harus datang subuh",Proses layanan,Kotak saran,Selesai
+K-001,2026-08-19,RW 04,65-69,L,Surat Keterangan Domisili,Lupa password / OTP tidak masuk,Literasi digital,Musrenbang RW,Dirujuk ke Disdukcapil
+K-034,2026-08-23,RW 01,65-69,L,Perekaman/cetak KTP-el,Unggah foto dokumen gagal,Literasi digital,Musrenbang RW,Selesai
+K-002,2026-08-24,RW 09,65-69,P,Kartu Keluarga (perubahan),Unggah foto dokumen gagal,Literasi digital,WhatsApp kelurahan,Belum selesai
+K-004,2026-08-29,RW 01,70-74,L,Akta Kematian,Tidak tahu persyaratan,Informasi persyaratan,Musrenbang RW,Belum selesai
+K-012,2026-08-29,RW 01,60-64,L,Akta Kematian,Tidak punya smartphone,Akses perangkat,Musrenbang RW,Belum selesai
+K-005,2026-09-02,RW 03,60-64,L,Perekaman/cetak KTP-el,Tidak punya smartphone,Akses perangkat,Musrenbang RW,Selesai
+K-016,2026-09-02,RW 08,60-64,L,Perekaman/cetak KTP-el,Disuruh kembali karena berkas kurang,Informasi persyaratan,WhatsApp kelurahan,Belum selesai
+K-037,2026-09-05,RW 03,60-64,L,Akta Kematian,Lupa password / OTP tidak masuk,Literasi digital,Musrenbang RW,Selesai
+K-030,2026-09-08,RW 04,60-64,L,Aktivasi IKD,Lupa password / OTP tidak masuk,Literasi digital,WhatsApp kelurahan,Selesai
+K-011,2026-09-15,RW 05,70-74,L,Aktivasi IKD,"Anak/kerabat bekerja, tidak ada pendamping",Akses perangkat,WhatsApp kelurahan,Belum selesai
+K-013,2026-09-16,RW 04,60-64,L,Surat Keterangan Domisili,Unggah foto dokumen gagal,Literasi digital,Kotak saran,Dirujuk ke Disdukcapil
+K-003,2026-09-17,RW 04,70-74,P,Akta Kematian,"Antrean online penuh, harus datang subuh",Proses layanan,Musrenbang RW,Selesai
+K-017,2026-09-18,RW 04,70-74,L,Perekaman/cetak KTP-el,Tidak punya smartphone,Akses perangkat,Musrenbang RW,Dirujuk ke Disdukcapil
+K-029,2026-09-19,RW 01,70-74,P,Surat Keterangan Domisili,Tidak bisa membuat akun/email,Literasi digital,WhatsApp kelurahan,Dirujuk ke Disdukcapil
+K-014,2026-09-22,RW 07,75+,L,Akta Kematian,Tidak punya smartphone,Akses perangkat,WhatsApp kelurahan,Belum selesai
+K-010,2026-09-24,RW 06,75+,L,Akta Kematian,Lupa password / OTP tidak masuk,Literasi digital,WhatsApp kelurahan,Selesai
+K-015,2026-09-25,RW 08,70-74,L,Aktivasi IKD,Tidak bisa membuat akun/email,Literasi digital,Langsung ke loket,Belum selesai
+K-027,2026-09-25,RW 05,75+,P,Akta Kematian,Petugas bicara terlalu cepat,Pelayanan petugas,WhatsApp kelurahan,Belum selesai
+K-026,2026-09-27,RW 02,65-69,P,Perekaman/cetak KTP-el,Tidak punya smartphone,Akses perangkat,Musrenbang RW,Selesai
+K-021,2026-09-28,RW 04,75+,P,Aktivasi IKD,Tidak bisa membuat akun/email,Literasi digital,Musrenbang RW,Belum selesai
+K-033,2026-09-30,RW 04,70-74,L,Surat Keterangan Domisili,Disuruh kembali karena berkas kurang,Informasi persyaratan,Kotak saran,Belum selesai
