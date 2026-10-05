@@ -338,6 +338,8 @@ Mahasiswa mampu:
 
 Setiap stream memakai alur 6 langkah yang sama; yang berbeda adalah case, tools, dan bentuk output. Key topics mengikuti proposal.
 
+> Paket case lengkap per stream (brief mahasiswa, data, dan kunci fasilitator) tersedia di folder [Case Packs](Case%20Packs/README.md).
+
 ### Stream 1 — Business & Professional
 
 **Key topics:** memahami masalah bisnis · riset pasar & pelanggan · mengolah data sederhana dengan Excel/Google Sheets · menyusun rekomendasi bisnis & dokumen dengan Canva

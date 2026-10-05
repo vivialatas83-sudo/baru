@@ -1,0 +1,513 @@
+order_id,tanggal,jam,produk,kategori,qty,harga_satuan,diskon_persen,total_bayar,kota,metode_bayar
+ORD-26322,2026-04-01,17:55,Totebag Batik,Tas,1,65000,0,65000,Jakarta ,E-Wallet
+ORD-26437,2026-04-01,19:13,Tumbler Stainless 500ml,Peralatan,2,89000,5,169100,Medan,COD
+ORD-26453,2026-04-01,21:26,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Medan,Kartu Kredit
+ORD-26441,2026-04-01,21:41,Totebag Batik,Tas,2,65000,0,130000,Jakarta ,Transfer Bank
+ORD-26152,2026-04-01,22:48,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Yogya,E-Wallet
+ORD-26364,2026-04-02,06:49,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Bandung,E-Wallet
+ORD-26468,2026-04-02,10:59,Tas Laptop Kanvas,Tas,1,175000,10,157500,Medan,E-Wallet
+ORD-26466,2026-04-02,12:42,Mousepad Motif Tenun,Peralatan,4,45000,0,180000,Bandung,Kartu Kredit
+ORD-26334,2026-04-02,14:38,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,jakarta,COD
+ORD-26340,2026-04-02,18:37,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Medan,E-Wallet
+ORD-26327,2026-04-03,00:36,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,Jakarta,Transfer Bank
+ORD-26036,2026-04-03,09:48,Tumbler Stainless 500ml,Peralatan,3,89000,10,240300,Bandung,Kartu Kredit
+ORD-26372,2026-04-03,12:23,Stiker Pack Nusantara,Alat Tulis,4,15000,10,54000,bandung,E-Wallet
+ORD-26007,2026-04-03,17:50,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Makassar,E-Wallet
+ORD-26065,2026-04-04,07:21,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Yogyakarta,COD
+ORD-26053,2026-04-04,21:36,Notebook A5 Dotted,Alat Tulis,3,35000,10,94500,Jakarta,E-Wallet
+ORD-26400,2026-04-05,09:30,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Bandung,E-Wallet
+ORD-26260,2026-04-05,15:24,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Medan,E-Wallet
+ORD-26353,2026-04-05,15:51,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Bandung,E-Wallet
+ORD-26316,2026-04-06,08:13,Totebag Batik,Tas,2,65000,0,130000,Bandung,E-Wallet
+ORD-26284,2026-04-06,10:01,Tumbler Stainless 500ml,Peralatan,3,89000,0,267000,Makasar,Kartu Kredit
+ORD-26138,2026-04-06,10:45,Set Pulpen Gel (5),Alat Tulis,5,28000,0,140000,Surabaya,COD
+ORD-26169,2026-04-06,13:02,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Makassar,COD
+ORD-26214,2026-04-06,17:40,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,JAKARTA,COD
+ORD-26001,2026-04-06,21:42,Lampu Meja LED,Peralatan,1,129000,10,116100,JAKARTA,E-Wallet
+ORD-26472,2026-04-07,08:03,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Bandung,E-Wallet
+ORD-26067,2026-04-07,18:39,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Bandung,Kartu Kredit
+ORD-26005,2026-04-08,20:26,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Yogyakarta,COD
+ORD-26237,2026-04-08,21:31,Set Pulpen Gel (5),,1,28000,0,28000,Surabaya,Kartu Kredit
+ORD-26171,2026-04-08,22:12,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Surabaya,COD
+ORD-26144,2026-04-09,13:32,Tumbler Stainless 500ml,Peralatan,2,89000,0,178000,Jakarta,Kartu Kredit
+ORD-26186,2026-04-09,13:32,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,JAKARTA,E-Wallet
+ORD-26342,2026-04-09,15:38,Set Pulpen Gel (5),Alat Tulis,1,28000,10,25200,Jakarta,E-Wallet
+ORD-26182,2026-04-09,16:22,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Bandung,COD
+ORD-26182,2026-04-09,16:22,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Bandung,COD
+ORD-26418,2026-04-10,11:53,Lampu Meja LED,Peralatan,2,129000,5,245100,Medan,COD
+ORD-26395,2026-04-10,13:34,Notebook A5 Dotted,Alat Tulis,2,35000,5,66500,JAKARTA,Kartu Kredit
+ORD-26346,2026-04-11,17:42,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Bandung,COD
+ORD-26309,2026-04-11,22:31,Totebag Batik,Tas,1,65000,0,65000,Jakarta,E-Wallet
+ORD-26119,2026-04-11,23:17,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Surabaya,Transfer Bank
+ORD-26339,2026-04-12,08:44,Mousepad Motif Tenun,Peralatan,2,45000,0,90000,Bandung,COD
+ORD-26015,2026-04-12,20:37,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Medan,Transfer Bank
+ORD-26272,2026-04-12,22:42,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,bandung,Transfer Bank
+ORD-26423,2026-04-13,14:27,Totebag Batik,Tas,1,65000,0,65000,Jakarta,COD
+ORD-26080,2026-04-13,15:56,Notebook A5 Dotted,Alat Tulis,2,35000,10,63000,JAKARTA,Kartu Kredit
+ORD-26456,2026-04-13,21:31,Lampu Meja LED,Peralatan,1,129000,5,122550,Yogya,COD
+ORD-26037,2026-04-15,16:24,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Bandung,Transfer Bank
+ORD-26356,2026-04-15,17:26,Tumbler Stainless 500ml,Peralatan,2,89000,5,169100,Yogyakarta,Transfer Bank
+ORD-26295,2026-04-15,22:04,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Yogya,E-Wallet
+ORD-26176,2026-04-15,23:46,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Medan,E-Wallet
+ORD-26434,2026-04-16,10:22,Mousepad Motif Tenun,Peralatan,2,45000,10,81000,Jogja,E-Wallet
+ORD-26492,2026-04-16,17:04,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,JAKARTA,E-Wallet
+ORD-26198,2026-04-16,21:26,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Bandung,COD
+ORD-26175,2026-04-17,10:22,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Yogya,Transfer Bank
+ORD-26266,2026-04-17,20:56,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Jakarta ,E-Wallet
+ORD-26072,2026-04-18,10:55,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Bandung,Kartu Kredit
+ORD-26467,2026-04-18,14:39,Lampu Meja LED,Peralatan,1,129000,0,129000,Jakarta,Kartu Kredit
+ORD-26058,2026-04-18,17:37,Lampu Meja LED,Peralatan,1,129000,10,116100,Yogyakarta,COD
+ORD-26201,2026-04-18,19:48,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Bandung,E-Wallet
+ORD-26069,2026-04-18,20:11,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Medan,Transfer Bank
+ORD-26124,2026-04-19,13:12,Tas Laptop Kanvas,Tas,3,175000,0,525000,Jakarta,COD
+ORD-26121,2026-04-19,19:51,Lampu Meja LED,Peralatan,1,129000,0,129000,Medan,Kartu Kredit
+ORD-26464,2026-04-22,14:24,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Surabaya,COD
+ORD-26386,2026-04-22,18:07,Totebag Batik,Tas,2,65000,0,130000,Jakarta,COD
+ORD-26257,2026-04-22,23:20,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,bandung,E-Wallet
+ORD-26462,2026-04-23,12:49,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Jogja,Transfer Bank
+ORD-26233,2026-04-23,19:37,Lampu Meja LED,Peralatan,1,129000,5,122550,Makassar,COD
+ORD-26000,2026-04-23,22:08,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,jakarta,Transfer Bank
+ORD-26011,2026-04-24,10:07,Notebook A5 Dotted,Alat Tulis,2,35000,10,63000,Bandung,Kartu Kredit
+ORD-26315,2026-04-24,19:16,Lampu Meja LED,Peralatan,1,129000,0,129000,Jogja,E-Wallet
+ORD-26405,2026-04-26,21:31,Notebook A5 Dotted,Alat Tulis,2,35000,10,63000,Sby,E-Wallet
+ORD-26446,2026-04-26,22:27,Mousepad Motif Tenun,,1,45000,15,38250,Medan,E-Wallet
+ORD-26061,2026-04-26,22:32,Lampu Meja LED,Peralatan,3,129000,15,328950,Medan,E-Wallet
+ORD-26333,2026-04-27,11:08,Lampu Meja LED,Peralatan,1,129000,15,109650,JAKARTA,Transfer Bank
+ORD-26379,2026-04-27,11:24,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Makasar,Transfer Bank
+ORD-26279,2026-04-27,11:44,Totebag Batik,Tas,4,65000,10,234000,Jakarta,Kartu Kredit
+ORD-26444,2026-04-27,19:16,Lampu Meja LED,Peralatan,2,129000,10,232200,Makassar,COD
+ORD-26251,2026-04-27,20:21,Notebook A5 Dotted,Alat Tulis,1,35000,15,29750,Sby,Kartu Kredit
+ORD-26029,2026-04-27,20:35,Tumbler Stainless 500ml,Peralatan,2,89000,10,160200,Surabaya,Kartu Kredit
+ORD-26301,2026-04-27,21:50,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,bandung,Kartu Kredit
+ORD-26030,2026-04-27,22:16,Set Pulpen Gel (5),Alat Tulis,2,28000,10,50400,Yogyakarta,E-Wallet
+ORD-26032,2026-04-29,08:24,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Medan,COD
+ORD-26275,2026-04-29,17:16,Totebag Batik,Tas,2,65000,0,130000,Medan,Kartu Kredit
+ORD-26267,2026-04-30,19:39,Totebag Batik,Tas,2,65000,10,117000,Surabaya,Kartu Kredit
+ORD-26097,2026-04-30,21:42,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Surabaya,Transfer Bank
+ORD-26300,2026-05-01,12:25,Notebook A5 Dotted,Alat Tulis,5,35000,0,175000,Bandung,E-Wallet
+ORD-26012,2026-05-01,20:56,Notebook A5 Dotted,Alat Tulis,2,35000,5,66500,Bandung,E-Wallet
+ORD-26084,2026-05-01,21:15,Totebag Batik,Tas,2,65000,10,117000,Sby,E-Wallet
+ORD-26082,2026-05-01,23:14,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Medan,E-Wallet
+ORD-26475,2026-05-02,01:30,Stiker Pack Nusantara,Alat Tulis,-1,15000,0,-15000,Sby,Kartu Kredit
+ORD-26487,2026-05-02,14:33,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Yogya,E-Wallet
+ORD-26051,2026-05-02,20:43,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,jakarta,E-Wallet
+ORD-26059,2026-05-02,21:26,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Bandung,E-Wallet
+ORD-26059,2026-05-02,21:26,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Bandung,E-Wallet
+ORD-26189,2026-05-02,23:07,Tumbler Stainless 500ml,Peralatan,4,89000,5,338200,Jakarta ,Kartu Kredit
+ORD-26326,2026-05-03,13:56,Totebag Batik,Tas,2,65000,0,130000,Jogja,Transfer Bank
+ORD-26326,2026-05-03,13:56,Totebag Batik,Tas,2,65000,0,130000,Jogja,Transfer Bank
+ORD-26480,2026-05-03,20:53,Tas Laptop Kanvas,Tas,2,175000,0,350000,Makassar,Transfer Bank
+ORD-26365,2026-05-03,21:03,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Yogyakarta,E-Wallet
+ORD-26283,2026-05-04,11:08,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,JAKARTA,Transfer Bank
+ORD-26078,2026-05-04,15:03,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Jogja,E-Wallet
+ORD-26230,2026-05-04,21:22,Lampu Meja LED,Peralatan,3,129000,0,387000,Yogya,COD
+ORD-26230,2026-05-04,21:22,Lampu Meja LED,Peralatan,3,129000,0,387000,Yogya,COD
+ORD-26083,2026-05-05,21:14,Mousepad Motif Tenun,Peralatan,4,45000,5,171000,Bandung,E-Wallet
+ORD-26074,2026-05-05,22:34,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Makasar,E-Wallet
+ORD-26337,2026-05-06,11:16,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Makassar,COD
+ORD-26302,2026-05-06,11:30,Totebag Batik,Tas,1,65000,0,65000,Jakarta ,E-Wallet
+ORD-26056,2026-05-06,12:31,Notebook A5 Dotted,Alat Tulis,5,35000,0,175000,Jakarta,Transfer Bank
+ORD-26222,2026-05-06,17:41,Tumbler Stainless 500ml,Peralatan,5,89000,0,445000,Jakarta ,Kartu Kredit
+ORD-26200,2026-05-06,21:03,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Medan,E-Wallet
+ORD-26147,2026-05-07,07:05,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,Makasar,Kartu Kredit
+ORD-26349,2026-05-07,15:34,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Jakarta,Kartu Kredit
+ORD-26461,2026-05-07,21:32,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Surabaya,E-Wallet
+ORD-26452,2026-05-08,07:49,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,Yogyakarta,Kartu Kredit
+ORD-26332,2026-05-08,19:21,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Bandung,COD
+ORD-26291,2026-05-08,22:57,Totebag Batik,Tas,2,65000,0,130000,Medan,Kartu Kredit
+ORD-26443,2026-05-09,11:15,Lampu Meja LED,Peralatan,1,129000,5,122550,Jakarta,COD
+ORD-26195,2026-05-09,20:06,Lampu Meja LED,Peralatan,1,129000,0,129000,Makasar,E-Wallet
+ORD-26085,2026-05-09,21:53,Stiker Pack Nusantara,Alat Tulis,5,15000,0,75000,Jakarta ,Kartu Kredit
+ORD-26234,2026-05-10,22:32,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Surabaya,E-Wallet
+ORD-26113,2026-05-11,12:12,Stiker Pack Nusantara,Alat Tulis,5,15000,0,75000,Surabaya,E-Wallet
+ORD-26271,2026-05-11,18:41,Totebag Batik,Tas,1,65000,10,58500,Medan,E-Wallet
+ORD-26362,2026-05-11,19:26,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Yogyakarta,COD
+ORD-26383,2026-05-11,20:05,Tumbler Stainless 500ml,Peralatan,3,89000,10,240300,Jakarta ,Kartu Kredit
+ORD-26384,2026-05-12,12:19,Totebag Batik,Tas,1,65000,10,58500,Medan,E-Wallet
+ORD-26146,2026-05-12,19:23,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Jakarta,Kartu Kredit
+ORD-26157,2026-05-12,21:20,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Yogya,COD
+ORD-26293,2026-05-12,21:58,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Surabaya,Transfer Bank
+ORD-26141,2026-05-13,12:16,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Medan,E-Wallet
+ORD-26141,2026-05-13,12:16,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Medan,E-Wallet
+ORD-26276,2026-05-13,19:26,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Jogja,E-Wallet
+ORD-26458,2026-05-14,01:55,Stiker Pack Nusantara,Alat Tulis,4,15000,5,57000,Medan,E-Wallet
+ORD-26035,2026-05-14,07:21,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,Medan,Kartu Kredit
+ORD-26403,2026-05-14,07:29,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Yogya,E-Wallet
+ORD-26285,2026-05-14,18:24,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Medan,Transfer Bank
+ORD-26399,2026-05-16,12:56,Totebag Batik,Tas,1,65000,5,61750,Jogja,Kartu Kredit
+ORD-26129,2026-05-16,20:44,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Surabaya,Transfer Bank
+ORD-26043,2026-05-17,16:45,Notebook A5 Dotted,Alat Tulis,2,35000,5,66500,Yogyakarta,E-Wallet
+ORD-26347,2026-05-17,20:27,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,,Transfer Bank
+ORD-26377,2026-05-18,06:51,Notebook A5 Dotted,Alat Tulis,5,35000,0,175000,Jogja,E-Wallet
+ORD-26375,2026-05-18,07:09,Lampu Meja LED,Peralatan,1,129000,0,129000,Yogyakarta,Kartu Kredit
+ORD-26463,2026-05-18,10:03,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Surabaya,Kartu Kredit
+ORD-26321,2026-05-18,14:42,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Jakarta,E-Wallet
+ORD-26306,2026-05-18,19:19,Totebag Batik,Tas,1,65000,0,65000,bandung,E-Wallet
+ORD-26002,2026-05-19,10:35,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,Yogyakarta,E-Wallet
+ORD-26070,2026-05-20,16:35,Set Pulpen Gel (5),Alat Tulis,4,28000,0,112000,Makasar,Kartu Kredit
+ORD-26394,2026-05-20,21:13,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Surabaya,E-Wallet
+ORD-26436,2026-05-20,21:50,Tas Laptop Kanvas,Tas,1,175000,0,175000,Surabaya,E-Wallet
+ORD-26424,2026-05-23,20:39,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Makassar,Kartu Kredit
+ORD-26155,2026-05-23,20:47,Tumbler Stainless 500ml,Peralatan,1,89000,5,84550,Makasar,E-Wallet
+ORD-26485,2026-05-24,15:19,Totebag Batik,Tas,2,65000,0,130000,Medan,E-Wallet
+ORD-26218,2026-05-24,20:05,Tumbler Stainless 500ml,Peralatan,3,89000,0,267000,Surabaya,E-Wallet
+ORD-26026,2026-05-24,20:21,Totebag Batik,Tas,1,65000,10,58500,jakarta,Kartu Kredit
+ORD-26197,2026-05-25,17:27,Notebook A5 Dotted,Alat Tulis,4,35000,10,126000,Jakarta ,Transfer Bank
+ORD-26445,2026-05-25,20:05,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Jakarta ,Kartu Kredit
+ORD-26489,2026-05-26,12:01,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,bandung,E-Wallet
+ORD-26049,2026-05-26,12:44,Tumbler Stainless 500ml,Peralatan,4,89000,10,320400,Yogyakarta,Kartu Kredit
+ORD-26363,2026-05-26,13:24,Totebag Batik,Tas,1,65000,10,58500,Jakarta,Kartu Kredit
+ORD-26430,2026-05-26,14:31,Notebook A5 Dotted,Alat Tulis,3,35000,0,105000,Sby,E-Wallet
+ORD-26225,2026-05-26,15:09,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Jakarta,Kartu Kredit
+ORD-26055,2026-05-26,16:25,Totebag Batik,Tas,1,65000,10,58500,bandung,Transfer Bank
+ORD-26303,2026-05-26,18:58,Lampu Meja LED,Peralatan,50,129000,15,6450000,Yogyakarta,E-Wallet
+ORD-26387,2026-05-26,21:25,Set Pulpen Gel (5),Alat Tulis,3,28000,10,75600,jakarta,E-Wallet
+ORD-26031,2026-05-26,23:52,Tumbler Stainless 500ml,Peralatan,1,89000,15,75650,bandung,Transfer Bank
+ORD-26091,2026-05-28,10:47,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Yogya,E-Wallet
+ORD-26370,2026-05-28,13:06,Stiker Pack Nusantara,Alat Tulis,2,15000,10,27000,Medan,E-Wallet
+ORD-26139,2026-05-28,19:45,Tumbler Stainless 500ml,,2,89000,0,178000,jakarta,E-Wallet
+ORD-26115,2026-05-28,20:36,Set Pulpen Gel (5),Alat Tulis,4,28000,0,112000,Surabaya,E-Wallet
+ORD-26420,2026-05-28,20:38,Mousepad Motif Tenun,Peralatan,2,45000,15,76500,bandung,Transfer Bank
+ORD-26010,2026-05-29,11:26,Stiker Pack Nusantara,Alat Tulis,1,15000,15,12750,Yogyakarta,Transfer Bank
+ORD-26483,2026-05-29,19:23,Notebook A5 Dotted,Alat Tulis,2,35000,10,63000,Surabaya,Transfer Bank
+ORD-26118,2026-05-29,19:32,Set Pulpen Gel (5),Alat Tulis,1,28000,10,25200,Yogyakarta,Transfer Bank
+ORD-26227,2026-05-30,12:13,Stiker Pack Nusantara,Alat Tulis,2,15000,10,27000,Bandung,Kartu Kredit
+ORD-26243,2026-05-30,21:08,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Makasar,E-Wallet
+ORD-26263,2026-05-31,14:04,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Jakarta,E-Wallet
+ORD-26107,2026-05-31,17:57,Stiker Pack Nusantara,Alat Tulis,2,15000,15,25500,Yogyakarta,COD
+ORD-26244,2026-05-31,20:35,Tas Laptop Kanvas,Tas,4,175000,10,630000,bandung,E-Wallet
+ORD-26187,2026-05-31,21:05,Totebag Batik,Tas,1,65000,10,58500,Bandung,E-Wallet
+ORD-26050,2026-05-31,21:47,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Jakarta,COD
+ORD-26451,2026-05-31,22:16,Notebook A5 Dotted,Alat Tulis,2,35000,15,59500,Medan,Transfer Bank
+ORD-26006,2026-06-01,16:22,Totebag Batik,Tas,1,65000,10,58500,Jakarta,COD
+ORD-26304,2026-06-02,01:36,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Sby,Kartu Kredit
+ORD-26442,2026-06-02,10:55,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Bandung,E-Wallet
+ORD-26185,2026-06-02,11:37,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Jakarta,E-Wallet
+ORD-26025,2026-06-02,11:59,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,Jakarta,COD
+ORD-26064,2026-06-02,14:34,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Yogyakarta,E-Wallet
+ORD-26427,2026-06-02,19:11,Totebag Batik,Tas,2,65000,10,117000,JAKARTA,Transfer Bank
+ORD-26450,2026-06-02,19:35,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,bandung,E-Wallet
+ORD-26414,2026-06-03,00:13,Stiker Pack Nusantara,,1,15000,5,14250,Jakarta,E-Wallet
+ORD-26221,2026-06-03,13:45,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Bandung,E-Wallet
+ORD-26089,2026-06-03,14:45,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Surabaya,E-Wallet
+ORD-26476,2026-06-03,15:42,Lampu Meja LED,Peralatan,1,129000,0,129000,Medan,Transfer Bank
+ORD-26343,2026-06-03,16:22,Totebag Batik,Tas,1,65000,5,61750,Yogya,E-Wallet
+ORD-26063,2026-06-03,17:07,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Medan,Kartu Kredit
+ORD-26264,2026-06-03,21:27,Lampu Meja LED,Peralatan,4,129000,0,516000,Medan,E-Wallet
+ORD-26479,2026-06-04,11:24,Tas Laptop Kanvas,Tas,1,175000,10,157500,Bandung,COD
+ORD-26235,2026-06-04,19:52,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Medan,Transfer Bank
+ORD-26398,2026-06-04,22:13,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Sby,E-Wallet
+ORD-26330,2026-06-04,22:58,Totebag Batik,Tas,5,65000,0,325000,Yogyakarta,Kartu Kredit
+ORD-26373,2026-06-05,12:54,Totebag Batik,Tas,1,65000,5,61750,Jakarta,Kartu Kredit
+ORD-26102,2026-06-05,18:39,Totebag Batik,Tas,1,65000,0,65000,JAKARTA,E-Wallet
+ORD-26248,2026-06-06,12:09,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Medan,E-Wallet
+ORD-26170,2026-06-06,18:21,Lampu Meja LED,Peralatan,2,129000,0,258000,Yogya,E-Wallet
+ORD-26313,2026-06-06,20:35,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,jakarta,Transfer Bank
+ORD-26196,2026-06-06,21:05,Totebag Batik,Tas,2,65000,0,130000,Yogya,Kartu Kredit
+ORD-26477,2026-06-07,19:35,Tas Laptop Kanvas,Tas,3,175000,0,525000,Yogya,E-Wallet
+ORD-26204,2026-06-07,20:12,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Jogja,E-Wallet
+ORD-26191,2026-06-07,23:03,Tumbler Stainless 500ml,Peralatan,1,89000,5,84550,Jakarta ,E-Wallet
+ORD-26397,2026-06-08,09:08,Tas Laptop Kanvas,Tas,1,175000,5,166250,Yogyakarta,Kartu Kredit
+ORD-26440,2026-06-08,10:19,Lampu Meja LED,Peralatan,1,129000,0,129000,Yogyakarta,Kartu Kredit
+ORD-26288,2026-06-08,11:06,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Surabaya,Kartu Kredit
+ORD-26432,2026-06-08,16:25,Tumbler Stainless 500ml,Peralatan,1,89000,5,84550,Medan,E-Wallet
+ORD-26110,2026-06-09,15:24,Tas Laptop Kanvas,Tas,2,175000,5,332500,Jakarta,E-Wallet
+ORD-26172,2026-06-10,19:04,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Surabaya,COD
+ORD-26256,2026-06-10,22:49,Mousepad Motif Tenun,Peralatan,1,45000,5,42750,Medan,E-Wallet
+ORD-26431,2026-06-11,13:51,Mousepad Motif Tenun,Peralatan,1,45000,5,42750,Bandung,Kartu Kredit
+ORD-26165,2026-06-13,09:09,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,Bandung,E-Wallet
+ORD-26287,2026-06-13,17:53,Tumbler Stainless 500ml,Peralatan,3,89000,10,240300,Jogja,Kartu Kredit
+ORD-26324,2026-06-13,19:01,Tumbler Stainless 500ml,Peralatan,4,89000,10,320400,Jakarta ,Transfer Bank
+ORD-26024,2026-06-13,19:08,Tas Laptop Kanvas,Tas,1,175000,0,175000,Sby,E-Wallet
+ORD-26131,2026-06-13,19:19,Tas Laptop Kanvas,Tas,5,175000,0,875000,jakarta,Kartu Kredit
+ORD-26071,2026-06-13,21:11,Notebook A5 Dotted,Alat Tulis,4,35000,0,140000,Yogyakarta,COD
+ORD-26465,2026-06-14,08:26,Lampu Meja LED,Peralatan,2,129000,0,258000,Makasar,COD
+ORD-26292,2026-06-14,12:20,Totebag Batik,Tas,4,65000,10,234000,Surabaya,E-Wallet
+ORD-26378,2026-06-14,18:32,Mousepad Motif Tenun,Peralatan,2,45000,0,90000,Bandung,E-Wallet
+ORD-26208,2026-06-14,19:21,Totebag Batik,Tas,-1,65000,5,-61750,Bandung,E-Wallet
+ORD-26422,2026-06-14,20:17,Set Pulpen Gel (5),Alat Tulis,5,28000,5,133000,Jakarta,E-Wallet
+ORD-26159,2026-06-14,21:40,Mousepad Motif Tenun,Peralatan,2,45000,10,81000,Yogyakarta,Transfer Bank
+ORD-26105,2026-06-15,06:26,Lampu Meja LED,Peralatan,2,129000,10,232200,Surabaya,Kartu Kredit
+ORD-26481,2026-06-15,21:45,Notebook A5 Dotted,Alat Tulis,4,35000,5,133000,Jogja,Kartu Kredit
+ORD-26153,2026-06-15,22:30,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,JAKARTA,E-Wallet
+ORD-26226,2026-06-16,01:50,Totebag Batik,Tas,1,65000,0,65000,bandung,E-Wallet
+ORD-26428,2026-06-16,08:48,Tas Laptop Kanvas,,2,175000,0,350000,,COD
+ORD-26416,2026-06-16,11:04,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Jakarta,E-Wallet
+ORD-26407,2026-06-16,15:03,Totebag Batik,Tas,2,65000,5,123500,Sby,COD
+ORD-26484,2026-06-16,19:56,Tumbler Stainless 500ml,Peralatan,1,89000,5,84550,Jakarta,Transfer Bank
+ORD-26034,2026-06-16,23:05,Lampu Meja LED,Peralatan,1,129000,0,129000,Medan,E-Wallet
+ORD-26374,2026-06-18,01:57,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Jakarta ,COD
+ORD-26413,2026-06-18,14:45,Mousepad Motif Tenun,Peralatan,3,45000,0,135000,Sby,COD
+ORD-26482,2026-06-18,19:43,Totebag Batik,Tas,2,65000,0,130000,jakarta,E-Wallet
+ORD-26246,2026-06-18,21:31,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,bandung,E-Wallet
+ORD-26253,2026-06-19,01:15,Mousepad Motif Tenun,Peralatan,1,45000,5,42750,bandung,Transfer Bank
+ORD-26104,2026-06-19,20:36,Stiker Pack Nusantara,Alat Tulis,4,15000,5,57000,Bandung,COD
+ORD-26194,2026-06-20,15:47,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Surabaya,COD
+ORD-26390,2026-06-23,21:10,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Jakarta,E-Wallet
+ORD-26174,2026-06-23,21:45,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Bandung,E-Wallet
+ORD-26183,2026-06-24,17:48,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Bandung,E-Wallet
+ORD-26125,2026-06-24,20:14,Set Pulpen Gel (5),Alat Tulis,2,28000,10,50400,Surabaya,Kartu Kredit
+ORD-26181,2026-06-25,21:32,Lampu Meja LED,Peralatan,1,129000,15,109650,Jakarta,Transfer Bank
+ORD-26173,2026-06-26,06:04,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Surabaya,Transfer Bank
+ORD-26003,2026-06-26,22:06,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,jakarta,COD
+ORD-26132,2026-06-27,15:38,Stiker Pack Nusantara,Alat Tulis,2,15000,15,25500,Jakarta ,COD
+ORD-26338,2026-06-28,09:46,Totebag Batik,Tas,1,65000,10,58500,Jakarta ,E-Wallet
+ORD-26469,2026-06-28,10:49,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Yogyakarta,Transfer Bank
+ORD-26433,2026-06-28,17:23,Notebook A5 Dotted,Alat Tulis,4,35000,10,126000,Jakarta,Kartu Kredit
+ORD-26203,2026-06-28,21:05,Set Pulpen Gel (5),Alat Tulis,1,28000,10,25200,Yogyakarta,E-Wallet
+ORD-26460,2026-06-30,06:32,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Surabaya,Kartu Kredit
+ORD-26101,2026-06-30,14:08,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Medan,E-Wallet
+ORD-26488,2026-06-30,19:08,Stiker Pack Nusantara,Alat Tulis,4,15000,10,54000,Jakarta ,Transfer Bank
+ORD-26294,2026-06-30,19:53,Set Pulpen Gel (5),Alat Tulis,1,28000,15,23800,Jakarta,COD
+ORD-26052,2026-06-30,20:11,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,Jakarta,E-Wallet
+ORD-26099,2026-07-02,09:24,Mousepad Motif Tenun,Peralatan,3,45000,0,135000,Bandung,E-Wallet
+ORD-26099,2026-07-02,09:24,Mousepad Motif Tenun,Peralatan,3,45000,0,135000,Bandung,E-Wallet
+ORD-26220,2026-07-02,09:34,Lampu Meja LED,Peralatan,1,129000,0,129000,Medan,Transfer Bank
+ORD-26160,2026-07-02,19:46,Tas Laptop Kanvas,Tas,2,175000,0,350000,Surabaya,E-Wallet
+ORD-26305,2026-07-03,18:53,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,JAKARTA,E-Wallet
+ORD-26100,2026-07-04,17:46,Stiker Pack Nusantara,Alat Tulis,3,15000,0,45000,Bandung,Kartu Kredit
+ORD-26202,2026-07-04,19:47,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Jogja,Transfer Bank
+ORD-26106,2026-07-05,10:06,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,Yogyakarta,Transfer Bank
+ORD-26357,2026-07-05,11:13,Tumbler Stainless 500ml,Peralatan,1,89000,5,84550,Yogya,Transfer Bank
+ORD-26361,2026-07-05,11:25,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,Makasar,COD
+ORD-26274,2026-07-06,12:14,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Jakarta,E-Wallet
+ORD-26081,2026-07-06,13:55,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Jakarta,Transfer Bank
+ORD-26491,2026-07-06,21:28,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,Jakarta,Transfer Bank
+ORD-26345,2026-07-07,11:25,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Jakarta,E-Wallet
+ORD-26150,2026-07-07,21:00,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Medan,Transfer Bank
+ORD-26429,2026-07-07,21:14,Notebook A5 Dotted,Alat Tulis,5,35000,0,175000,Sby,Transfer Bank
+ORD-26314,2026-07-07,22:48,Totebag Batik,Tas,1,65000,10,58500,bandung,E-Wallet
+ORD-26236,2026-07-08,07:05,Stiker Pack Nusantara,Alat Tulis,3,15000,5,42750,Yogyakarta,E-Wallet
+ORD-26258,2026-07-08,20:06,Tumbler Stainless 500ml,Peralatan,3,89000,5,253650,Bandung,Transfer Bank
+ORD-26117,2026-07-09,11:57,Notebook A5 Dotted,Alat Tulis,5,35000,5,166250,Jakarta,COD
+ORD-26473,2026-07-09,18:53,Totebag Batik,Tas,2,65000,0,130000,Jakarta,E-Wallet
+ORD-26447,2026-07-10,11:15,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Surabaya,Transfer Bank
+ORD-26447,2026-07-10,11:15,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Surabaya,Transfer Bank
+ORD-26486,2026-07-10,15:21,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,jakarta,E-Wallet
+ORD-26318,2026-07-10,21:36,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,bandung,E-Wallet
+ORD-26448,2026-07-11,20:02,Totebag Batik,Tas,1,65000,10,58500,Jakarta ,COD
+ORD-26269,2026-07-11,20:24,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Makassar,COD
+ORD-26382,2026-07-11,20:59,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,JAKARTA,E-Wallet
+ORD-26478,2026-07-12,13:19,Mousepad Motif Tenun,Peralatan,2,45000,0,90000,Surabaya,E-Wallet
+ORD-26392,2026-07-13,14:00,Totebag Batik,Tas,2,65000,0,130000,Surabaya,COD
+ORD-26039,2026-07-13,18:31,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Bandung,E-Wallet
+ORD-26289,2026-07-14,09:55,Notebook A5 Dotted,,2,35000,0,70000,Medan,E-Wallet
+ORD-26471,2026-07-14,13:13,Tas Laptop Kanvas,Tas,4,175000,0,700000,bandung,Transfer Bank
+ORD-26367,2026-07-15,21:14,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Jogja,E-Wallet
+ORD-26417,2026-07-16,09:01,Set Pulpen Gel (5),Alat Tulis,2,28000,10,50400,Bandung,Kartu Kredit
+ORD-26075,2026-07-16,19:49,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,bandung,E-Wallet
+ORD-26075,2026-07-16,19:49,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,bandung,E-Wallet
+ORD-26369,2026-07-17,11:23,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Medan,Transfer Bank
+ORD-26199,2026-07-17,19:16,Lampu Meja LED,Peralatan,4,129000,5,490200,Sby,Transfer Bank
+ORD-26312,2026-07-18,09:30,Totebag Batik,Tas,2,65000,0,130000,Makassar,E-Wallet
+ORD-26242,2026-07-18,11:29,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Jakarta,COD
+ORD-26352,2026-07-18,16:22,Stiker Pack Nusantara,Alat Tulis,5,15000,0,75000,Yogyakarta,E-Wallet
+ORD-26020,2026-07-18,17:26,Lampu Meja LED,Peralatan,1,129000,0,129000,Bandung,COD
+ORD-26355,2026-07-19,09:00,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Surabaya,Kartu Kredit
+ORD-26355,2026-07-19,09:00,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Surabaya,Kartu Kredit
+ORD-26004,2026-07-19,19:13,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Sby,E-Wallet
+ORD-26027,2026-07-19,21:17,Set Pulpen Gel (5),Alat Tulis,2,28000,5,53200,Bandung,E-Wallet
+ORD-26241,2026-07-20,07:44,Totebag Batik,Tas,5,65000,5,308750,bandung,COD
+ORD-26360,2026-07-21,20:42,Stiker Pack Nusantara,Alat Tulis,3,15000,0,45000,Surabaya,E-Wallet
+ORD-26308,2026-07-21,22:53,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,bandung,E-Wallet
+ORD-26057,2026-07-22,07:59,Totebag Batik,Tas,1,65000,0,65000,bandung,E-Wallet
+ORD-26412,2026-07-22,10:15,Tas Laptop Kanvas,Tas,2,175000,5,332500,Makassar,Kartu Kredit
+ORD-26076,2026-07-22,19:18,Tumbler Stainless 500ml,Peralatan,3,89000,10,240300,Bandung,E-Wallet
+ORD-26359,2026-07-22,22:11,Tumbler Stainless 500ml,Peralatan,2,89000,0,178000,bandung,E-Wallet
+ORD-26092,2026-07-23,17:32,Lampu Meja LED,Peralatan,2,129000,5,245100,Jakarta,E-Wallet
+ORD-26280,2026-07-23,19:17,Totebag Batik,Tas,1,65000,5,61750,Yogyakarta,COD
+ORD-26116,2026-07-23,20:39,Totebag Batik,Tas,3,65000,0,195000,bandung,Transfer Bank
+ORD-26066,2026-07-23,20:47,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Surabaya,Kartu Kredit
+ORD-26278,2026-07-23,21:12,Totebag Batik,Tas,1,65000,0,65000,Medan,Kartu Kredit
+ORD-26376,2026-07-24,09:12,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Bandung,Kartu Kredit
+ORD-26376,2026-07-24,09:12,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Bandung,Kartu Kredit
+ORD-26435,2026-07-24,13:51,Tas Laptop Kanvas,Tas,2,175000,0,350000,jakarta,Kartu Kredit
+ORD-26380,2026-07-24,13:57,Totebag Batik,Tas,1,65000,0,65000,Jakarta,E-Wallet
+ORD-26088,2026-07-25,08:53,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Jogja,COD
+ORD-26252,2026-07-25,10:01,Mousepad Motif Tenun,Peralatan,5,45000,10,202500,Surabaya,E-Wallet
+ORD-26319,2026-07-25,19:09,Totebag Batik,Tas,1,65000,10,58500,Yogyakarta,Transfer Bank
+ORD-26426,2026-07-25,19:25,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,Bandung,Kartu Kredit
+ORD-26307,2026-07-25,19:53,Totebag Batik,Tas,-4,65000,10,-234000,Surabaya,E-Wallet
+ORD-26215,2026-07-25,21:31,Totebag Batik,Tas,3,65000,10,175500,Jakarta,E-Wallet
+ORD-26145,2026-07-26,12:00,Tumbler Stainless 500ml,Peralatan,2,89000,0,178000,JAKARTA,E-Wallet
+ORD-26348,2026-07-26,12:04,Stiker Pack Nusantara,Alat Tulis,1,15000,15,12750,Makasar,COD
+ORD-26142,2026-07-26,20:33,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,Medan,E-Wallet
+ORD-26389,2026-07-27,21:28,Totebag Batik,Tas,1,65000,10,58500,bandung,E-Wallet
+ORD-26093,2026-07-28,13:34,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,Jakarta,COD
+ORD-26148,2026-07-28,13:45,Notebook A5 Dotted,,1,35000,10,31500,Surabaya,E-Wallet
+ORD-26311,2026-07-28,20:15,Totebag Batik,Tas,1,65000,0,65000,Yogyakarta,Transfer Bank
+ORD-26042,2026-07-28,20:29,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Bandung,Transfer Bank
+ORD-26410,2026-07-28,21:59,Lampu Meja LED,Peralatan,4,129000,10,464400,bandung,E-Wallet
+ORD-26351,2026-07-29,08:58,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Yogyakarta,E-Wallet
+ORD-26335,2026-07-29,18:49,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Medan,Kartu Kredit
+ORD-26087,2026-07-29,21:45,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,,Kartu Kredit
+ORD-26290,2026-07-29,22:00,Set Pulpen Gel (5),Alat Tulis,3,28000,10,75600,Jakarta ,Transfer Bank
+ORD-26273,2026-07-30,12:49,Set Pulpen Gel (5),Alat Tulis,1,28000,10,25200,bandung,E-Wallet
+ORD-26166,2026-07-30,15:35,Notebook A5 Dotted,Alat Tulis,1,35000,15,29750,Jakarta,Kartu Kredit
+ORD-26038,2026-07-30,16:10,Set Pulpen Gel (5),Alat Tulis,2,28000,10,50400,Jakarta,COD
+ORD-26112,2026-07-30,20:15,Set Pulpen Gel (5),Alat Tulis,4,28000,10,100800,Surabaya,Transfer Bank
+ORD-26385,2026-07-30,22:28,Set Pulpen Gel (5),Alat Tulis,1,28000,15,23800,Surabaya,Transfer Bank
+ORD-26391,2026-07-31,19:02,Set Pulpen Gel (5),Alat Tulis,5,28000,0,140000,,E-Wallet
+ORD-26184,2026-07-31,19:11,Notebook A5 Dotted,Alat Tulis,1,35000,15,29750,bandung,COD
+ORD-26328,2026-07-31,19:13,Notebook A5 Dotted,Alat Tulis,2,35000,10,63000,Bandung,E-Wallet
+ORD-26496,2026-08-01,19:33,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Bandung,Kartu Kredit
+ORD-26041,2026-08-01,19:37,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,jakarta,Transfer Bank
+ORD-26019,2026-08-02,20:34,Lampu Meja LED,Peralatan,2,129000,0,258000,Jogja,E-Wallet
+ORD-26047,2026-08-03,20:06,Stiker Pack Nusantara,Alat Tulis,2,15000,10,27000,Jakarta,COD
+ORD-26114,2026-08-03,20:19,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Yogyakarta,Kartu Kredit
+ORD-26239,2026-08-03,23:44,Totebag Batik,Tas,1,65000,0,65000,Jakarta,E-Wallet
+ORD-26044,2026-08-04,10:30,Totebag Batik,Tas,1,65000,0,65000,Jakarta ,E-Wallet
+ORD-26156,2026-08-04,15:46,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Bandung,E-Wallet
+ORD-26224,2026-08-05,00:31,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Yogyakarta,Kartu Kredit
+ORD-26192,2026-08-05,08:50,Stiker Pack Nusantara,Alat Tulis,3,15000,0,45000,Yogya,Kartu Kredit
+ORD-26262,2026-08-05,12:00,Lampu Meja LED,Peralatan,1,129000,0,129000,Jakarta,Kartu Kredit
+ORD-26120,2026-08-05,16:31,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Yogya,E-Wallet
+ORD-26297,2026-08-06,11:44,Stiker Pack Nusantara,,1,15000,10,13500,JAKARTA,Transfer Bank
+ORD-26368,2026-08-06,12:49,Totebag Batik,Tas,1,65000,10,58500,Jakarta,Transfer Bank
+ORD-26167,2026-08-06,13:23,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Surabaya,E-Wallet
+ORD-26406,2026-08-06,22:45,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Sby,COD
+ORD-26014,2026-08-07,10:02,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Medan,Kartu Kredit
+ORD-26499,2026-08-07,18:05,Tas Laptop Kanvas,Tas,1,175000,0,175000,Bandung,Kartu Kredit
+ORD-26411,2026-08-07,18:57,Tumbler Stainless 500ml,Peralatan,2,89000,10,160200,bandung,COD
+ORD-26151,2026-08-09,12:28,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,Yogyakarta,E-Wallet
+ORD-26323,2026-08-09,15:25,Totebag Batik,Tas,2,65000,0,130000,Medan,E-Wallet
+ORD-26381,2026-08-09,18:20,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Bandung,E-Wallet
+ORD-26341,2026-08-10,08:02,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Medan,Transfer Bank
+ORD-26134,2026-08-10,14:40,Set Pulpen Gel (5),Alat Tulis,3,28000,10,75600,Jakarta,E-Wallet
+ORD-26209,2026-08-10,17:52,Tas Laptop Kanvas,Tas,3,175000,10,472500,Makasar,Kartu Kredit
+ORD-26140,2026-08-10,20:13,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Jakarta,E-Wallet
+ORD-26094,2026-08-11,09:45,Totebag Batik,Tas,1,65000,5,61750,,E-Wallet
+ORD-26054,2026-08-11,10:59,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Yogyakarta,COD
+ORD-26163,2026-08-12,17:54,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Sby,COD
+ORD-26454,2026-08-12,21:51,Tas Laptop Kanvas,Tas,2,175000,0,350000,Medan,Transfer Bank
+ORD-26217,2026-08-13,09:21,Lampu Meja LED,Peralatan,1,129000,10,116100,Bandung,Transfer Bank
+ORD-26128,2026-08-13,12:28,Lampu Meja LED,Peralatan,1,129000,5,122550,Yogyakarta,E-Wallet
+ORD-26013,2026-08-13,19:28,Notebook A5 Dotted,,4,35000,0,140000,Bandung,E-Wallet
+ORD-26265,2026-08-13,20:29,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,Sby,Transfer Bank
+ORD-26098,2026-08-14,14:42,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Surabaya,E-Wallet
+ORD-26130,2026-08-14,14:47,Tas Laptop Kanvas,Tas,1,175000,10,157500,Yogya,Kartu Kredit
+ORD-26016,2026-08-14,19:21,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Surabaya,Transfer Bank
+ORD-26205,2026-08-14,19:53,Set Pulpen Gel (5),,1,28000,0,28000,,E-Wallet
+ORD-26455,2026-08-14,21:24,Totebag Batik,Tas,2,65000,0,130000,Makassar,E-Wallet
+ORD-26103,2026-08-15,10:32,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Surabaya,Transfer Bank
+ORD-26459,2026-08-15,19:46,Lampu Meja LED,Peralatan,5,129000,0,645000,JAKARTA,COD
+ORD-26216,2026-08-16,08:47,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Makasar,COD
+ORD-26180,2026-08-16,12:18,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,Medan,Transfer Bank
+ORD-26409,2026-08-17,10:03,Tumbler Stainless 500ml,Peralatan,2,89000,5,169100,Jakarta,COD
+ORD-26404,2026-08-17,10:57,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Surabaya,E-Wallet
+ORD-26358,2026-08-17,11:00,Totebag Batik,Tas,5,65000,0,325000,Jakarta,E-Wallet
+ORD-26149,2026-08-17,11:08,Tumbler Stainless 500ml,Peralatan,3,89000,0,267000,Medan,COD
+ORD-26393,2026-08-17,14:01,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,Surabaya,Kartu Kredit
+ORD-26193,2026-08-17,19:08,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,Jakarta,Transfer Bank
+ORD-26408,2026-08-17,19:13,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Medan,COD
+ORD-26320,2026-08-18,08:32,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,Yogyakarta,COD
+ORD-26350,2026-08-18,17:56,Set Pulpen Gel (5),Alat Tulis,4,28000,0,112000,jakarta,E-Wallet
+ORD-26123,2026-08-19,11:52,Tas Laptop Kanvas,Tas,1,175000,0,175000,Makasar,Kartu Kredit
+ORD-26158,2026-08-19,12:20,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Bandung,COD
+ORD-26045,2026-08-19,16:40,Totebag Batik,Tas,1,65000,10,58500,Makassar,Kartu Kredit
+ORD-26366,2026-08-19,20:04,Set Pulpen Gel (5),Alat Tulis,2,28000,10,50400,Makasar,E-Wallet
+ORD-26329,2026-08-19,23:57,Totebag Batik,Tas,1,65000,0,65000,Bandung,COD
+ORD-26008,2026-08-20,13:45,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,bandung,E-Wallet
+ORD-26028,2026-08-20,19:24,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,,COD
+ORD-26077,2026-08-20,19:50,Totebag Batik,Tas,2,65000,10,117000,Bandung,E-Wallet
+ORD-26178,2026-08-21,18:31,Set Pulpen Gel (5),Alat Tulis,3,28000,0,84000,Bandung,E-Wallet
+ORD-26344,2026-08-22,09:08,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Yogyakarta,COD
+ORD-26211,2026-08-23,22:18,Totebag Batik,Tas,-1,65000,5,-61750,Makassar,COD
+ORD-26268,2026-08-24,15:12,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Yogyakarta,Kartu Kredit
+ORD-26474,2026-08-24,17:18,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Makassar,Transfer Bank
+ORD-26009,2026-08-25,09:07,Set Pulpen Gel (5),Alat Tulis,5,28000,15,119000,jakarta,E-Wallet
+ORD-26164,2026-08-25,22:13,Stiker Pack Nusantara,Alat Tulis,1,15000,15,12750,Yogyakarta,E-Wallet
+ORD-26168,2026-08-25,22:14,Tumbler Stainless 500ml,Peralatan,1,89000,15,75650,Bandung,COD
+ORD-26245,2026-08-26,15:07,Lampu Meja LED,Peralatan,1,129000,10,116100,Jakarta,COD
+ORD-26281,2026-08-26,19:13,Tumbler Stainless 500ml,Peralatan,2,89000,15,151300,Makassar,E-Wallet
+ORD-26402,2026-08-27,17:14,Mousepad Motif Tenun,Peralatan,1,45000,10,40500,Yogya,Transfer Bank
+ORD-26223,2026-08-28,20:03,Set Pulpen Gel (5),Alat Tulis,1,28000,15,23800,Surabaya,E-Wallet
+ORD-26494,2026-08-28,23:15,Notebook A5 Dotted,,2,35000,0,70000,Surabaya,E-Wallet
+ORD-26259,2026-08-29,12:40,Totebag Batik,Tas,1,65000,15,55250,Yogyakarta,E-Wallet
+ORD-26206,2026-08-29,18:06,Stiker Pack Nusantara,Alat Tulis,4,15000,10,54000,bandung,COD
+ORD-26136,2026-08-30,08:56,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Makasar,E-Wallet
+ORD-26388,2026-08-30,18:12,Stiker Pack Nusantara,Alat Tulis,4,15000,10,54000,Medan,COD
+ORD-26249,2026-08-30,19:28,Totebag Batik,Tas,2,65000,10,117000,bandung,E-Wallet
+ORD-26108,2026-08-30,21:09,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Surabaya,Transfer Bank
+ORD-26023,2026-08-31,09:09,Notebook A5 Dotted,Alat Tulis,5,35000,10,157500,Medan,E-Wallet
+ORD-26232,2026-08-31,16:02,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Jakarta ,E-Wallet
+ORD-26310,2026-08-31,18:23,Tumbler Stainless 500ml,Peralatan,2,89000,15,151300,jakarta,Kartu Kredit
+ORD-26219,2026-08-31,22:09,Mousepad Motif Tenun,Peralatan,3,45000,15,114750,Bandung,Kartu Kredit
+ORD-26331,2026-09-01,12:01,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,Bandung,E-Wallet
+ORD-26190,2026-09-01,17:43,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Medan,Transfer Bank
+ORD-26231,2026-09-02,09:31,Tumbler Stainless 500ml,Peralatan,1,89000,0,89000,Surabaya,Transfer Bank
+ORD-26254,2026-09-02,12:54,Set Pulpen Gel (5),Alat Tulis,3,28000,10,75600,Yogya,Kartu Kredit
+ORD-26421,2026-09-02,20:03,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,jakarta,COD
+ORD-26421,2026-09-02,20:03,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,jakarta,COD
+ORD-26143,2026-09-02,20:52,Totebag Batik,Tas,4,65000,0,260000,JAKARTA,COD
+ORD-26126,2026-09-03,20:26,Set Pulpen Gel (5),Alat Tulis,4,28000,0,112000,Yogyakarta,Transfer Bank
+ORD-26073,2026-09-03,20:56,Set Pulpen Gel (5),Alat Tulis,2,28000,5,53200,Surabaya,E-Wallet
+ORD-26296,2026-09-04,19:50,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Medan,COD
+ORD-26135,2026-09-04,21:46,Notebook A5 Dotted,Alat Tulis,4,35000,0,140000,bandung,COD
+ORD-26270,2026-09-05,13:54,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,Jakarta ,Transfer Bank
+ORD-26212,2026-09-05,22:42,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,Jakarta,Transfer Bank
+ORD-26207,2026-09-06,09:44,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Yogya,Kartu Kredit
+ORD-26086,2026-09-06,19:16,Totebag Batik,Tas,2,65000,5,123500,Yogya,E-Wallet
+ORD-26401,2026-09-07,11:19,Lampu Meja LED,Peralatan,2,129000,0,258000,Yogyakarta,Kartu Kredit
+ORD-26261,2026-09-07,12:15,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Surabaya,E-Wallet
+ORD-26228,2026-09-07,12:26,Set Pulpen Gel (5),Alat Tulis,1,28000,5,26600,Sby,E-Wallet
+ORD-26154,2026-09-08,11:37,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Bandung,COD
+ORD-26154,2026-09-08,11:37,Stiker Pack Nusantara,Alat Tulis,2,15000,0,30000,Bandung,COD
+ORD-26017,2026-09-08,17:46,Lampu Meja LED,Peralatan,1,129000,0,129000,Yogyakarta,COD
+ORD-26354,2026-09-09,12:00,Totebag Batik,Tas,1,65000,5,61750,jakarta,E-Wallet
+ORD-26048,2026-09-09,21:38,Tas Laptop Kanvas,Tas,1,175000,0,175000,Makassar,E-Wallet
+ORD-26470,2026-09-09,21:45,Tas Laptop Kanvas,Tas,3,175000,0,525000,Jakarta ,E-Wallet
+ORD-26161,2026-09-09,22:15,Tas Laptop Kanvas,Tas,2,175000,10,315000,Medan,COD
+ORD-26046,2026-09-09,22:35,Lampu Meja LED,Peralatan,4,129000,10,464400,Yogya,E-Wallet
+ORD-26493,2026-09-09,23:54,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Surabaya,E-Wallet
+ORD-26062,2026-09-10,17:21,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Makassar,COD
+ORD-26095,2026-09-11,19:28,Totebag Batik,Tas,1,65000,0,65000,Jogja,E-Wallet
+ORD-26137,2026-09-12,00:38,Set Pulpen Gel (5),Alat Tulis,4,28000,10,100800,Jakarta,E-Wallet
+ORD-26210,2026-09-12,11:50,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,jakarta,E-Wallet
+ORD-26286,2026-09-12,16:01,Tas Laptop Kanvas,Tas,3,175000,5,498750,Bandung,Transfer Bank
+ORD-26419,2026-09-12,21:17,Tas Laptop Kanvas,Tas,1,175000,0,175000,Surabaya,E-Wallet
+ORD-26238,2026-09-14,11:56,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Bandung,Transfer Bank
+ORD-26162,2026-09-14,13:23,Tas Laptop Kanvas,Tas,2,175000,0,350000,Jakarta,Transfer Bank
+ORD-26179,2026-09-14,14:48,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,Medan,COD
+ORD-26255,2026-09-14,20:10,Notebook A5 Dotted,Alat Tulis,1,35000,10,31500,Jogja,Transfer Bank
+ORD-26177,2026-09-15,08:32,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Jakarta,E-Wallet
+ORD-26229,2026-09-15,12:36,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,Jakarta ,Kartu Kredit
+ORD-26090,2026-09-15,18:33,Lampu Meja LED,Peralatan,2,129000,0,258000,Jakarta,Transfer Bank
+ORD-26298,2026-09-16,08:06,Totebag Batik,Tas,2,65000,0,130000,Jakarta ,E-Wallet
+ORD-26033,2026-09-16,14:23,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Surabaya,Transfer Bank
+ORD-26449,2026-09-16,20:16,Totebag Batik,,1,65000,10,58500,Makasar,Transfer Bank
+ORD-26425,2026-09-16,22:38,Totebag Batik,Tas,3,65000,0,195000,Yogyakarta,Transfer Bank
+ORD-26127,2026-09-18,09:00,Tas Laptop Kanvas,Tas,3,175000,5,498750,JAKARTA,E-Wallet
+ORD-26371,2026-09-18,14:41,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Medan,Transfer Bank
+ORD-26498,2026-09-18,17:33,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Jakarta,Transfer Bank
+ORD-26250,2026-09-18,21:13,Tumbler Stainless 500ml,Peralatan,4,89000,10,320400,Jogja,COD
+ORD-26079,2026-09-19,09:49,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,jakarta,E-Wallet
+ORD-26096,2026-09-19,10:19,Set Pulpen Gel (5),Alat Tulis,2,28000,0,56000,jakarta,Transfer Bank
+ORD-26133,2026-09-19,10:27,Stiker Pack Nusantara,Alat Tulis,1,15000,5,14250,Medan,COD
+ORD-26299,2026-09-19,19:19,Tas Laptop Kanvas,Tas,2,175000,0,350000,Bandung,E-Wallet
+ORD-26060,2026-09-19,20:34,Notebook A5 Dotted,Alat Tulis,2,35000,0,70000,Bandung,E-Wallet
+ORD-26282,2026-09-19,21:04,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Sby,E-Wallet
+ORD-26317,2026-09-20,11:31,Lampu Meja LED,Peralatan,2,129000,0,258000,Makassar,Kartu Kredit
+ORD-26021,2026-09-20,11:47,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,jakarta,Kartu Kredit
+ORD-26490,2026-09-20,20:13,Notebook A5 Dotted,Alat Tulis,1,35000,5,33250,,COD
+ORD-26439,2026-09-21,13:51,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,Jakarta,COD
+ORD-26495,2026-09-21,22:40,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,,E-Wallet
+ORD-26438,2026-09-22,12:08,Stiker Pack Nusantara,Alat Tulis,2,15000,5,28500,Yogyakarta,E-Wallet
+ORD-26022,2026-09-22,16:46,Stiker Pack Nusantara,,5,15000,10,67500,Surabaya,COD
+ORD-26213,2026-09-23,14:15,Mousepad Motif Tenun,Peralatan,3,45000,0,135000,bandung,Kartu Kredit
+ORD-26040,2026-09-23,15:04,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Bandung,E-Wallet
+ORD-26109,2026-09-23,19:57,Notebook A5 Dotted,Alat Tulis,1,35000,0,35000,Jogja,Transfer Bank
+ORD-26068,2026-09-23,20:41,Stiker Pack Nusantara,Alat Tulis,1,15000,0,15000,Jakarta ,COD
+ORD-26497,2026-09-25,22:15,Notebook A5 Dotted,,4,35000,15,119000,Bandung,Transfer Bank
+ORD-26240,2026-09-26,13:21,Totebag Batik,Tas,1,65000,15,55250,Medan,E-Wallet
+ORD-26122,2026-09-26,21:57,Set Pulpen Gel (5),Alat Tulis,1,28000,15,23800,JAKARTA,Kartu Kredit
+ORD-26277,2026-09-27,07:39,Stiker Pack Nusantara,Alat Tulis,1,15000,15,12750,Jakarta,Kartu Kredit
+ORD-26336,2026-09-27,15:34,Stiker Pack Nusantara,Alat Tulis,2,15000,10,27000,Surabaya,COD
+ORD-26457,2026-09-28,18:42,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Sby,E-Wallet
+ORD-26188,2026-09-28,21:34,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Surabaya,Kartu Kredit
+ORD-26111,2026-09-29,00:09,Stiker Pack Nusantara,Alat Tulis,1,15000,10,13500,Surabaya,E-Wallet
+ORD-26396,2026-09-29,08:18,Mousepad Motif Tenun,Peralatan,1,45000,0,45000,Bandung,Kartu Kredit
+ORD-26018,2026-09-29,11:16,Mousepad Motif Tenun,Peralatan,1,45000,15,38250,Medan,Kartu Kredit
+ORD-26247,2026-09-29,18:00,Mousepad Motif Tenun,Peralatan,2,45000,10,81000,Jakarta,Kartu Kredit
+ORD-26325,2026-09-29,18:09,Set Pulpen Gel (5),Alat Tulis,1,28000,0,28000,Yogyakarta,Kartu Kredit
+ORD-26415,2026-09-30,09:29,Tumbler Stainless 500ml,Peralatan,1,89000,10,80100,Medan,Transfer Bank

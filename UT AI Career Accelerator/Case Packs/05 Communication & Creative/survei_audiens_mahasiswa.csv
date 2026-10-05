@@ -1,0 +1,61 @@
+id,usia,status,platform_utama,jam_aktif_medsos,ngemil_saat_belajar,budget_jajan_per_minggu,faktor_utama_beli_snack,konten_paling_disukai,minat_snack_sehat_1sd5
+R01,19,Mahasiswa sambil bekerja,TikTok,22-01,Sering,Rp50.000-100.000,Kesehatan/gizi,Video lucu/relatable,5
+R02,24,Mahasiswa penuh waktu,Instagram,22-01,Kadang,Rp50.000-100.000,Rekomendasi teman/influencer,Behind the scenes UMKM,3
+R03,18,Mahasiswa penuh waktu,TikTok,22-01,Kadang,> Rp100.000,Kemasan praktis,Promo/diskon,5
+R04,23,Mahasiswa penuh waktu,YouTube,22-01,Sering,Rp25.000-50.000,Harga,Video lucu/relatable,4
+R05,26,Mahasiswa sambil bekerja,Instagram,22-01,Sering,Rp25.000-50.000,Harga,Video lucu/relatable,4
+R06,21,Mahasiswa sambil bekerja,TikTok,22-01,Kadang,Rp50.000-100.000,Kesehatan/gizi,Tips belajar/produktivitas,2
+R07,20,Mahasiswa sambil bekerja,Instagram,12-14,Sering,< Rp25.000,Kesehatan/gizi,Review jujur,5
+R08,25,Mahasiswa sambil bekerja,TikTok,19-22,Kadang,< Rp25.000,Harga,Review jujur,5
+R09,19,Mahasiswa penuh waktu,YouTube,19-22,Kadang,< Rp25.000,Rasa,Video lucu/relatable,4
+R10,19,Mahasiswa penuh waktu,X/Twitter,22-01,Sering,< Rp25.000,Rasa,Video lucu/relatable,5
+R11,21,Mahasiswa penuh waktu,Instagram,22-01,Jarang,Rp25.000-50.000,Kesehatan/gizi,Review jujur,4
+R12,21,Mahasiswa sambil bekerja,Instagram,12-14,Sering,Rp50.000-100.000,Harga,Tips belajar/produktivitas,4
+R13,19,Mahasiswa penuh waktu,TikTok,06-09,Sering,< Rp25.000,Harga,Review jujur,4
+R14,20,Mahasiswa penuh waktu,Instagram,22-01,Jarang,< Rp25.000,Kesehatan/gizi,Behind the scenes UMKM,5
+R15,23,Mahasiswa sambil bekerja,TikTok,19-22,Selalu,Rp25.000-50.000,Rekomendasi teman/influencer,Promo/diskon,1
+R16,20,Mahasiswa penuh waktu,Instagram,12-14,Selalu,> Rp100.000,Harga,Review jujur,5
+R17,23,Mahasiswa penuh waktu,Instagram,22-01,Sering,Rp25.000-50.000,Kesehatan/gizi,Promo/diskon,2
+R18,18,Mahasiswa sambil bekerja,Instagram,19-22,Selalu,Rp50.000-100.000,Rasa,Promo/diskon,3
+R19,20,Mahasiswa sambil bekerja,TikTok,22-01,Sering,Rp25.000-50.000,Rekomendasi teman/influencer,Promo/diskon,5
+R20,21,Mahasiswa penuh waktu,YouTube,19-22,Sering,> Rp100.000,Rekomendasi teman/influencer,Behind the scenes UMKM,4
+R21,24,Mahasiswa sambil bekerja,TikTok,22-01,Selalu,Rp25.000-50.000,Rasa,Video lucu/relatable,4
+R22,24,Mahasiswa penuh waktu,TikTok,19-22,Selalu,Rp50.000-100.000,Rasa,Promo/diskon,4
+R23,21,Mahasiswa penuh waktu,TikTok,22-01,Kadang,< Rp25.000,Kesehatan/gizi,Video lucu/relatable,4
+R24,22,Mahasiswa penuh waktu,TikTok,19-22,Sering,Rp25.000-50.000,Rekomendasi teman/influencer,Promo/diskon,4
+R25,18,Mahasiswa sambil bekerja,TikTok,19-22,Kadang,Rp50.000-100.000,Harga,Video lucu/relatable,3
+R26,26,Mahasiswa penuh waktu,Instagram,22-01,Sering,Rp25.000-50.000,Kesehatan/gizi,Tips belajar/produktivitas,5
+R27,22,Mahasiswa sambil bekerja,Instagram,22-01,Sering,Rp25.000-50.000,Rasa,Review jujur,4
+R28,19,Mahasiswa sambil bekerja,X/Twitter,12-14,Sering,Rp50.000-100.000,Rasa,Promo/diskon,2
+R29,22,Mahasiswa penuh waktu,Instagram,19-22,Kadang,Rp50.000-100.000,Rasa,Review jujur,1
+R30,21,Mahasiswa penuh waktu,Instagram,22-01,Sering,< Rp25.000,Kesehatan/gizi,Promo/diskon,5
+R31,26,Mahasiswa sambil bekerja,TikTok,06-09,Sering,Rp25.000-50.000,Kemasan praktis,Tips belajar/produktivitas,5
+R32,24,Mahasiswa sambil bekerja,Instagram,19-22,Selalu,Rp25.000-50.000,Kesehatan/gizi,Tips belajar/produktivitas,4
+R33,20,Mahasiswa sambil bekerja,X/Twitter,06-09,Sering,Rp25.000-50.000,Harga,Promo/diskon,4
+R34,23,Mahasiswa penuh waktu,Instagram,19-22,Sering,< Rp25.000,Rasa,Review jujur,5
+R35,18,Mahasiswa penuh waktu,YouTube,19-22,Kadang,Rp25.000-50.000,Rasa,Review jujur,3
+R36,24,Mahasiswa penuh waktu,YouTube,12-14,Sering,Rp25.000-50.000,Kesehatan/gizi,Tips belajar/produktivitas,2
+R37,19,Mahasiswa sambil bekerja,TikTok,22-01,Sering,Rp50.000-100.000,Kesehatan/gizi,Video lucu/relatable,4
+R38,20,Mahasiswa penuh waktu,TikTok,12-14,Sering,Rp25.000-50.000,Harga,Review jujur,4
+R39,19,Mahasiswa penuh waktu,TikTok,06-09,Jarang,Rp50.000-100.000,Harga,Tips belajar/produktivitas,4
+R40,23,Mahasiswa penuh waktu,X/Twitter,06-09,Selalu,< Rp25.000,Harga,Promo/diskon,5
+R41,21,Mahasiswa penuh waktu,TikTok,12-14,Kadang,< Rp25.000,Kesehatan/gizi,Video lucu/relatable,1
+R42,20,Mahasiswa penuh waktu,TikTok,19-22,Selalu,< Rp25.000,Kesehatan/gizi,Behind the scenes UMKM,5
+R43,25,Mahasiswa penuh waktu,Instagram,12-14,Selalu,Rp50.000-100.000,Harga,Tips belajar/produktivitas,4
+R44,19,Mahasiswa penuh waktu,X/Twitter,19-22,Kadang,Rp25.000-50.000,Rasa,Review jujur,5
+R45,18,Mahasiswa penuh waktu,Instagram,19-22,Sering,Rp50.000-100.000,Rasa,Video lucu/relatable,5
+R46,19,Mahasiswa penuh waktu,X/Twitter,19-22,Jarang,< Rp25.000,Rasa,Promo/diskon,3
+R47,21,Mahasiswa sambil bekerja,TikTok,19-22,Sering,Rp25.000-50.000,Kesehatan/gizi,Promo/diskon,2
+R48,23,Mahasiswa sambil bekerja,Instagram,22-01,Kadang,Rp25.000-50.000,Rekomendasi teman/influencer,Video lucu/relatable,3
+R49,25,Mahasiswa sambil bekerja,X/Twitter,12-14,Selalu,Rp50.000-100.000,Kesehatan/gizi,Review jujur,5
+R50,21,Mahasiswa sambil bekerja,TikTok,19-22,Selalu,< Rp25.000,Rasa,Behind the scenes UMKM,4
+R51,21,Mahasiswa penuh waktu,Instagram,22-01,Jarang,< Rp25.000,Rekomendasi teman/influencer,Promo/diskon,3
+R52,19,Mahasiswa sambil bekerja,TikTok,19-22,Kadang,< Rp25.000,Kemasan praktis,Video lucu/relatable,4
+R53,23,Mahasiswa penuh waktu,TikTok,12-14,Selalu,< Rp25.000,Kemasan praktis,Promo/diskon,5
+R54,21,Mahasiswa penuh waktu,Instagram,22-01,Selalu,< Rp25.000,Rasa,Video lucu/relatable,2
+R55,20,Mahasiswa penuh waktu,Instagram,22-01,Jarang,Rp50.000-100.000,Harga,Review jujur,2
+R56,19,Mahasiswa sambil bekerja,YouTube,12-14,Kadang,< Rp25.000,Rekomendasi teman/influencer,Promo/diskon,5
+R57,23,Mahasiswa sambil bekerja,TikTok,22-01,Kadang,Rp25.000-50.000,Rekomendasi teman/influencer,Video lucu/relatable,4
+R58,18,Mahasiswa sambil bekerja,TikTok,19-22,Sering,> Rp100.000,Rasa,Video lucu/relatable,3
+R59,23,Mahasiswa penuh waktu,X/Twitter,19-22,Sering,Rp25.000-50.000,Rasa,Promo/diskon,4
+R60,22,Mahasiswa sambil bekerja,TikTok,19-22,Kadang,Rp50.000-100.000,Rasa,Video lucu/relatable,1

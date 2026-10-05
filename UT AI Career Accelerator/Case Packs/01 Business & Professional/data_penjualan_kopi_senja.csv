@@ -1,0 +1,2746 @@
+tanggal,hari,produk,kategori,kanal,qty,harga_satuan,pendapatan
+2026-04-01,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,22,18000,396000
+2026-04-01,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-04-01,Rabu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-04-01,Rabu,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-01,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-01,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-04-01,Rabu,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-04-01,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-01,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-01,Rabu,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-04-01,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-01,Rabu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-04-01,Rabu,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-04-01,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-01,Rabu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-04-02,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,28,18000,504000
+2026-04-02,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-04-02,Kamis,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-04-02,Kamis,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-02,Kamis,Americano,Kopi,Takeaway,6,15000,90000
+2026-04-02,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-04-02,Kamis,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-04-02,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-02,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-02,Kamis,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-04-02,Kamis,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-02,Kamis,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-04-02,Kamis,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-04-02,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-02,Kamis,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-04-03,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-04-03,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-04-03,Jumat,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-04-03,Jumat,Americano,Kopi,Dine-in,10,15000,150000
+2026-04-03,Jumat,Americano,Kopi,Takeaway,6,15000,90000
+2026-04-03,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-04-03,Jumat,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-04-03,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-03,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-03,Jumat,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-04-03,Jumat,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-03,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-03,Jumat,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-04-03,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-03,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-04,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-04-04,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-04-04,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-04-04,Sabtu,Americano,Kopi,Dine-in,6,15000,90000
+2026-04-04,Sabtu,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-04,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-04-04,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-04-04,Sabtu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-04-04,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-04,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-04-04,Sabtu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-04,Sabtu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-04,Sabtu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-04-04,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-04,Sabtu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-04-05,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-04-05,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-04-05,Minggu,Es Kopi Susu Senja,Kopi,Ojol,25,18000,450000
+2026-04-05,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-04-05,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-05,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-04-05,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-04-05,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-04-05,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-05,Minggu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-04-05,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-05,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-05,Minggu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-04-05,Minggu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-04-05,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-04-06,Senin,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-04-06,Senin,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-04-06,Senin,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-04-06,Senin,Americano,Kopi,Dine-in,12,15000,180000
+2026-04-06,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-06,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-04-06,Senin,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-04-06,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-04-06,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-06,Senin,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-04-06,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-06,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-06,Senin,Roti Bakar,Makanan,Dine-in,15,15000,225000
+2026-04-06,Senin,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-04-06,Senin,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-04-07,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,24,18000,432000
+2026-04-07,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-04-07,Selasa,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-04-07,Selasa,Americano,Kopi,Dine-in,12,15000,180000
+2026-04-07,Selasa,Americano,Kopi,Takeaway,6,15000,90000
+2026-04-07,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-04-07,Selasa,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-04-07,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-07,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-07,Selasa,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-04-07,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-04-07,Selasa,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-04-07,Selasa,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-04-07,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-07,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-08,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-04-08,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-04-08,Rabu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-04-08,Rabu,Americano,Kopi,Dine-in,7,15000,105000
+2026-04-08,Rabu,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-08,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-04-08,Rabu,Kopi Tubruk,Kopi,Dine-in,14,10000,140000
+2026-04-08,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-08,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-08,Rabu,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-04-08,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-08,Rabu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-08,Rabu,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-04-08,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-08,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-09,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,27,18000,486000
+2026-04-09,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-04-09,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-04-09,Kamis,Americano,Kopi,Dine-in,10,15000,150000
+2026-04-09,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-09,Kamis,Americano,Kopi,Ojol,3,15000,45000
+2026-04-09,Kamis,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-04-09,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-09,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-09,Kamis,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-04-09,Kamis,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-09,Kamis,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-09,Kamis,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-04-09,Kamis,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-04-09,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-10,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-04-10,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-04-10,Jumat,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-04-10,Jumat,Americano,Kopi,Dine-in,9,15000,135000
+2026-04-10,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-10,Jumat,Americano,Kopi,Ojol,6,15000,90000
+2026-04-10,Jumat,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-04-10,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-10,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-10,Jumat,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-04-10,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-10,Jumat,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-04-10,Jumat,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-04-10,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-10,Jumat,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-04-11,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,25,18000,450000
+2026-04-11,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-04-11,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-04-11,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-04-11,Sabtu,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-11,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-04-11,Sabtu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-04-11,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-11,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-11,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-04-11,Sabtu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-11,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-11,Sabtu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-04-11,Sabtu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-04-11,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-12,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,10,18000,180000
+2026-04-12,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-04-12,Minggu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-04-12,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-04-12,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-12,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-04-12,Minggu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-04-12,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-12,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-12,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-04-12,Minggu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-12,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-12,Minggu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-04-12,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-12,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-04-13,Senin,Es Kopi Susu Senja,Kopi,Dine-in,23,18000,414000
+2026-04-13,Senin,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-04-13,Senin,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-04-13,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-04-13,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-13,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-04-13,Senin,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-04-13,Senin,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-04-13,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-13,Senin,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-04-13,Senin,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-04-13,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-13,Senin,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-04-13,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-04-13,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-04-14,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,33,18000,594000
+2026-04-14,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-04-14,Selasa,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-04-14,Selasa,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-14,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-14,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-04-14,Selasa,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-04-14,Selasa,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-04-14,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-14,Selasa,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-04-14,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-14,Selasa,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-14,Selasa,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-04-14,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-14,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-15,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,23,18000,414000
+2026-04-15,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-04-15,Rabu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-04-15,Rabu,Americano,Kopi,Dine-in,9,15000,135000
+2026-04-15,Rabu,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-15,Rabu,Americano,Kopi,Ojol,5,15000,75000
+2026-04-15,Rabu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-04-15,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-15,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-15,Rabu,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-04-15,Rabu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-15,Rabu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-04-15,Rabu,Roti Bakar,Makanan,Dine-in,13,15000,195000
+2026-04-15,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-15,Rabu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-04-16,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,25,18000,450000
+2026-04-16,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-04-16,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-04-16,Kamis,Americano,Kopi,Dine-in,9,15000,135000
+2026-04-16,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-16,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-04-16,Kamis,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-04-16,Kamis,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-04-16,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-16,Kamis,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-04-16,Kamis,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-04-16,Kamis,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-16,Kamis,Roti Bakar,Makanan,Dine-in,14,15000,210000
+2026-04-16,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-16,Kamis,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-04-17,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,33,18000,594000
+2026-04-17,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-04-17,Jumat,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-04-17,Jumat,Americano,Kopi,Dine-in,10,15000,150000
+2026-04-17,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-17,Jumat,Americano,Kopi,Ojol,3,15000,45000
+2026-04-17,Jumat,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-04-17,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-17,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-17,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-04-17,Jumat,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-04-17,Jumat,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-04-17,Jumat,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-04-17,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-17,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-18,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-04-18,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-04-18,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-04-18,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-04-18,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-18,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-04-18,Sabtu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-04-18,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-18,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-18,Sabtu,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-04-18,Sabtu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-18,Sabtu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-04-18,Sabtu,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-04-18,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-18,Sabtu,Roti Bakar,Makanan,Ojol,9,15000,135000
+2026-04-19,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-04-19,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-04-19,Minggu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-04-19,Minggu,Americano,Kopi,Dine-in,9,15000,135000
+2026-04-19,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-19,Minggu,Americano,Kopi,Ojol,3,15000,45000
+2026-04-19,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-04-19,Minggu,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-04-19,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-19,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-04-19,Minggu,Matcha Latte,Non-Kopi,Takeaway,2,22000,44000
+2026-04-19,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-19,Minggu,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-04-19,Minggu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-04-19,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-04-20,Senin,Es Kopi Susu Senja,Kopi,Dine-in,26,18000,468000
+2026-04-20,Senin,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-04-20,Senin,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-04-20,Senin,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-20,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-20,Senin,Americano,Kopi,Ojol,3,15000,45000
+2026-04-20,Senin,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-04-20,Senin,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-04-20,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-20,Senin,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-04-20,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-20,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-20,Senin,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-04-20,Senin,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-04-20,Senin,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-04-21,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,29,18000,522000
+2026-04-21,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-04-21,Selasa,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-04-21,Selasa,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-21,Selasa,Americano,Kopi,Takeaway,6,15000,90000
+2026-04-21,Selasa,Americano,Kopi,Ojol,3,15000,45000
+2026-04-21,Selasa,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-04-21,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-21,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-21,Selasa,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-04-21,Selasa,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-21,Selasa,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-04-21,Selasa,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-04-21,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-21,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-22,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-04-22,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-04-22,Rabu,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-04-22,Rabu,Americano,Kopi,Dine-in,9,15000,135000
+2026-04-22,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-22,Rabu,Americano,Kopi,Ojol,5,15000,75000
+2026-04-22,Rabu,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-04-22,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-22,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-22,Rabu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-04-22,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-22,Rabu,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-04-22,Rabu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-04-22,Rabu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-04-22,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-23,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,24,18000,432000
+2026-04-23,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-04-23,Kamis,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-04-23,Kamis,Americano,Kopi,Dine-in,10,15000,150000
+2026-04-23,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-23,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-04-23,Kamis,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-04-23,Kamis,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-04-23,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-23,Kamis,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-04-23,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-23,Kamis,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-23,Kamis,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-04-23,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-23,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-24,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,23,18000,414000
+2026-04-24,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-04-24,Jumat,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-04-24,Jumat,Americano,Kopi,Dine-in,10,15000,150000
+2026-04-24,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-24,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-04-24,Jumat,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-04-24,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-24,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-24,Jumat,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-04-24,Jumat,Matcha Latte,Non-Kopi,Takeaway,2,22000,44000
+2026-04-24,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-24,Jumat,Roti Bakar,Makanan,Dine-in,15,15000,225000
+2026-04-24,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-24,Jumat,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-04-25,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-04-25,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-04-25,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-04-25,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-04-25,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-25,Sabtu,Americano,Kopi,Ojol,6,15000,90000
+2026-04-25,Sabtu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-04-25,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-25,Sabtu,Kopi Tubruk,Kopi,Ojol,2,10000,20000
+2026-04-25,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-04-25,Sabtu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-04-25,Sabtu,Matcha Latte,Non-Kopi,Ojol,8,22000,176000
+2026-04-25,Sabtu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-04-25,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-25,Sabtu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-04-26,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-04-26,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,18,18000,324000
+2026-04-26,Minggu,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-04-26,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-04-26,Minggu,Americano,Kopi,Takeaway,6,15000,90000
+2026-04-26,Minggu,Americano,Kopi,Ojol,5,15000,75000
+2026-04-26,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-04-26,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-26,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-26,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-04-26,Minggu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-04-26,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-04-26,Minggu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-04-26,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-26,Minggu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-04-27,Senin,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-04-27,Senin,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-04-27,Senin,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-04-27,Senin,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-27,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-27,Senin,Americano,Kopi,Ojol,3,15000,45000
+2026-04-27,Senin,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-04-27,Senin,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-04-27,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-27,Senin,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-04-27,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-27,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-04-27,Senin,Roti Bakar,Makanan,Dine-in,13,15000,195000
+2026-04-27,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-27,Senin,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-28,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-04-28,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-04-28,Selasa,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-04-28,Selasa,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-28,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-04-28,Selasa,Americano,Kopi,Ojol,5,15000,75000
+2026-04-28,Selasa,Kopi Tubruk,Kopi,Dine-in,13,10000,130000
+2026-04-28,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-28,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-28,Selasa,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-04-28,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-04-28,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-28,Selasa,Roti Bakar,Makanan,Dine-in,15,15000,225000
+2026-04-28,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-28,Selasa,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-04-29,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-04-29,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-04-29,Rabu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-04-29,Rabu,Americano,Kopi,Dine-in,9,15000,135000
+2026-04-29,Rabu,Americano,Kopi,Takeaway,3,15000,45000
+2026-04-29,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-04-29,Rabu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-04-29,Rabu,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-04-29,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-29,Rabu,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-04-29,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-29,Rabu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-04-29,Rabu,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-04-29,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-29,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-04-30,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,32,18000,576000
+2026-04-30,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-04-30,Kamis,Es Kopi Susu Senja,Kopi,Ojol,23,18000,414000
+2026-04-30,Kamis,Americano,Kopi,Dine-in,8,15000,120000
+2026-04-30,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-04-30,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-04-30,Kamis,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-04-30,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-04-30,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-04-30,Kamis,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-04-30,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-04-30,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-04-30,Kamis,Roti Bakar,Makanan,Dine-in,13,15000,195000
+2026-04-30,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-04-30,Kamis,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-05-01,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-05-01,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-05-01,Jumat,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-05-01,Jumat,Americano,Kopi,Dine-in,10,15000,150000
+2026-05-01,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-01,Jumat,Americano,Kopi,Ojol,3,15000,45000
+2026-05-01,Jumat,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-05-01,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-01,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-01,Jumat,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-05-01,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-01,Jumat,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-01,Jumat,Roti Bakar,Makanan,Dine-in,14,15000,210000
+2026-05-01,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-05-01,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-02,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-05-02,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-05-02,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-05-02,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-05-02,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-02,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-05-02,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-05-02,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-02,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-02,Sabtu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-05-02,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-02,Sabtu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-05-02,Sabtu,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-05-02,Sabtu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-02,Sabtu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-05-03,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-05-03,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-05-03,Minggu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-05-03,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-05-03,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-03,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-05-03,Minggu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-05-03,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-03,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-03,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-05-03,Minggu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-03,Minggu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-05-03,Minggu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-05-03,Minggu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-05-03,Minggu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-04,Senin,Es Kopi Susu Senja,Kopi,Dine-in,31,18000,558000
+2026-05-04,Senin,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-05-04,Senin,Es Kopi Susu Senja,Kopi,Ojol,9,18000,162000
+2026-05-04,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-05-04,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-04,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-05-04,Senin,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-05-04,Senin,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-05-04,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-04,Senin,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-05-04,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-04,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-04,Senin,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-05-04,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-04,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-05,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,28,18000,504000
+2026-05-05,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-05-05,Selasa,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-05-05,Selasa,Americano,Kopi,Dine-in,13,15000,195000
+2026-05-05,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-05,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-05-05,Selasa,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-05-05,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-05,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-05,Selasa,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-05-05,Selasa,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-05,Selasa,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-05-05,Selasa,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-05-05,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-05,Selasa,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-05-06,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,26,18000,468000
+2026-05-06,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-05-06,Rabu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-05-06,Rabu,Americano,Kopi,Dine-in,10,15000,150000
+2026-05-06,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-06,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-05-06,Rabu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-05-06,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-06,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-06,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-05-06,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-06,Rabu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-05-06,Rabu,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-05-06,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-06,Rabu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-07,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,24,18000,432000
+2026-05-07,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-05-07,Kamis,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-05-07,Kamis,Americano,Kopi,Dine-in,9,15000,135000
+2026-05-07,Kamis,Americano,Kopi,Takeaway,6,15000,90000
+2026-05-07,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-05-07,Kamis,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-05-07,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-07,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-07,Kamis,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-05-07,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-07,Kamis,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-05-07,Kamis,Roti Bakar,Makanan,Dine-in,13,15000,195000
+2026-05-07,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-07,Kamis,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-08,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,29,18000,522000
+2026-05-08,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-05-08,Jumat,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-05-08,Jumat,Americano,Kopi,Dine-in,7,15000,105000
+2026-05-08,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-08,Jumat,Americano,Kopi,Ojol,3,15000,45000
+2026-05-08,Jumat,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-05-08,Jumat,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-05-08,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-08,Jumat,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-05-08,Jumat,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-05-08,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-08,Jumat,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-05-08,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-08,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-09,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-05-09,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,9,18000,162000
+2026-05-09,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,23,18000,414000
+2026-05-09,Sabtu,Americano,Kopi,Dine-in,6,15000,90000
+2026-05-09,Sabtu,Americano,Kopi,Takeaway,6,15000,90000
+2026-05-09,Sabtu,Americano,Kopi,Ojol,3,15000,45000
+2026-05-09,Sabtu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-05-09,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-09,Sabtu,Kopi Tubruk,Kopi,Ojol,2,10000,20000
+2026-05-09,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-05-09,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-09,Sabtu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-05-09,Sabtu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-05-09,Sabtu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-05-09,Sabtu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-05-10,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-05-10,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-05-10,Minggu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-05-10,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-05-10,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-10,Minggu,Americano,Kopi,Ojol,5,15000,75000
+2026-05-10,Minggu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-05-10,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-10,Minggu,Kopi Tubruk,Kopi,Ojol,2,10000,20000
+2026-05-10,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-05-10,Minggu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-05-10,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-10,Minggu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-05-10,Minggu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-10,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-05-11,Senin,Es Kopi Susu Senja,Kopi,Dine-in,28,18000,504000
+2026-05-11,Senin,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-05-11,Senin,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-05-11,Senin,Americano,Kopi,Dine-in,11,15000,165000
+2026-05-11,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-11,Senin,Americano,Kopi,Ojol,5,15000,75000
+2026-05-11,Senin,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-05-11,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-05-11,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-11,Senin,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-11,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-11,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-05-11,Senin,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-05-11,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-11,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-12,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,24,18000,432000
+2026-05-12,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-05-12,Selasa,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-05-12,Selasa,Americano,Kopi,Dine-in,9,15000,135000
+2026-05-12,Selasa,Americano,Kopi,Takeaway,6,15000,90000
+2026-05-12,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-05-12,Selasa,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-05-12,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-12,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-12,Selasa,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-12,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-12,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-12,Selasa,Roti Bakar,Makanan,Dine-in,13,15000,195000
+2026-05-12,Selasa,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-12,Selasa,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-13,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-05-13,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-05-13,Rabu,Es Kopi Susu Senja,Kopi,Ojol,23,18000,414000
+2026-05-13,Rabu,Americano,Kopi,Dine-in,9,15000,135000
+2026-05-13,Rabu,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-13,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-05-13,Rabu,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-05-13,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-13,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-13,Rabu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-13,Rabu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-13,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-13,Rabu,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-05-13,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-13,Rabu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-05-14,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,23,18000,414000
+2026-05-14,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-05-14,Kamis,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-05-14,Kamis,Americano,Kopi,Dine-in,8,15000,120000
+2026-05-14,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-14,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-05-14,Kamis,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-05-14,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-14,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-14,Kamis,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-14,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-14,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-14,Kamis,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-05-14,Kamis,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-14,Kamis,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-15,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,26,18000,468000
+2026-05-15,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-05-15,Jumat,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-05-15,Jumat,Americano,Kopi,Dine-in,9,15000,135000
+2026-05-15,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-15,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-05-15,Jumat,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-05-15,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-05-15,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-15,Jumat,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-15,Jumat,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-05-15,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-15,Jumat,Roti Bakar,Makanan,Dine-in,14,15000,210000
+2026-05-15,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-05-15,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-16,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,22,18000,396000
+2026-05-16,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-05-16,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-05-16,Sabtu,Americano,Kopi,Dine-in,8,15000,120000
+2026-05-16,Sabtu,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-16,Sabtu,Americano,Kopi,Ojol,3,15000,45000
+2026-05-16,Sabtu,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-05-16,Sabtu,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-05-16,Sabtu,Kopi Tubruk,Kopi,Ojol,2,10000,20000
+2026-05-16,Sabtu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-05-16,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-16,Sabtu,Matcha Latte,Non-Kopi,Ojol,8,22000,176000
+2026-05-16,Sabtu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-05-16,Sabtu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-16,Sabtu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-05-17,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-05-17,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-05-17,Minggu,Es Kopi Susu Senja,Kopi,Ojol,11,18000,198000
+2026-05-17,Minggu,Americano,Kopi,Dine-in,7,15000,105000
+2026-05-17,Minggu,Americano,Kopi,Takeaway,3,15000,45000
+2026-05-17,Minggu,Americano,Kopi,Ojol,6,15000,90000
+2026-05-17,Minggu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-05-17,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-17,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-17,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-05-17,Minggu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-17,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-17,Minggu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-05-17,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-17,Minggu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-05-18,Senin,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-05-18,Senin,Es Kopi Susu Senja,Kopi,Takeaway,18,18000,324000
+2026-05-18,Senin,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-05-18,Senin,Americano,Kopi,Dine-in,7,15000,105000
+2026-05-18,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-18,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-05-18,Senin,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-05-18,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-18,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-18,Senin,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-18,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-18,Senin,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-18,Senin,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-05-18,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-18,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-19,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,24,18000,432000
+2026-05-19,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-05-19,Selasa,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-05-19,Selasa,Americano,Kopi,Dine-in,12,15000,180000
+2026-05-19,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-19,Selasa,Americano,Kopi,Ojol,5,15000,75000
+2026-05-19,Selasa,Kopi Tubruk,Kopi,Dine-in,4,10000,40000
+2026-05-19,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-19,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-19,Selasa,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-19,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-05-19,Selasa,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-19,Selasa,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-05-19,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-19,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-20,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,27,18000,486000
+2026-05-20,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-05-20,Rabu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-05-20,Rabu,Americano,Kopi,Dine-in,8,15000,120000
+2026-05-20,Rabu,Americano,Kopi,Takeaway,6,15000,90000
+2026-05-20,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-05-20,Rabu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-05-20,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-20,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-20,Rabu,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-20,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-20,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-20,Rabu,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-05-20,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-20,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-21,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,24,18000,432000
+2026-05-21,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-05-21,Kamis,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-05-21,Kamis,Americano,Kopi,Dine-in,8,15000,120000
+2026-05-21,Kamis,Americano,Kopi,Takeaway,3,15000,45000
+2026-05-21,Kamis,Americano,Kopi,Ojol,3,15000,45000
+2026-05-21,Kamis,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-05-21,Kamis,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-05-21,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-21,Kamis,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-21,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-21,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-21,Kamis,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-05-21,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-21,Kamis,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-05-22,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,25,18000,450000
+2026-05-22,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,19,18000,342000
+2026-05-22,Jumat,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-05-22,Jumat,Americano,Kopi,Dine-in,6,15000,90000
+2026-05-22,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-22,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-05-22,Jumat,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-05-22,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-22,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-22,Jumat,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-22,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-22,Jumat,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-22,Jumat,Roti Bakar,Makanan,Dine-in,15,15000,225000
+2026-05-22,Jumat,Roti Bakar,Makanan,Takeaway,1,15000,15000
+2026-05-22,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-23,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-05-23,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-05-23,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-05-23,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-05-23,Sabtu,Americano,Kopi,Takeaway,6,15000,90000
+2026-05-23,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-05-23,Sabtu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-05-23,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-23,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-23,Sabtu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-23,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-05-23,Sabtu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-05-23,Sabtu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-05-23,Sabtu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-05-23,Sabtu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-24,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-05-24,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-05-24,Minggu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-05-24,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-05-24,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-24,Minggu,Americano,Kopi,Ojol,3,15000,45000
+2026-05-24,Minggu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-05-24,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-24,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-24,Minggu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-24,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-24,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-24,Minggu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-05-24,Minggu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-24,Minggu,Roti Bakar,Makanan,Ojol,9,15000,135000
+2026-05-25,Senin,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-05-25,Senin,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-05-25,Senin,Es Kopi Susu Senja,Kopi,Ojol,24,18000,432000
+2026-05-25,Senin,Americano,Kopi,Dine-in,8,15000,120000
+2026-05-25,Senin,Americano,Kopi,Takeaway,6,15000,90000
+2026-05-25,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-05-25,Senin,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-05-25,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-25,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-25,Senin,Matcha Latte,Non-Kopi,Dine-in,9,22000,198000
+2026-05-25,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-25,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-05-25,Senin,Roti Bakar,Makanan,Dine-in,14,15000,210000
+2026-05-25,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-25,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-26,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-05-26,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-05-26,Selasa,Es Kopi Susu Senja,Kopi,Ojol,10,18000,180000
+2026-05-26,Selasa,Americano,Kopi,Dine-in,7,15000,105000
+2026-05-26,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-26,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-05-26,Selasa,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-05-26,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-26,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-26,Selasa,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-26,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-26,Selasa,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-26,Selasa,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-05-26,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-26,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-27,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,28,18000,504000
+2026-05-27,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-05-27,Rabu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-05-27,Rabu,Americano,Kopi,Dine-in,8,15000,120000
+2026-05-27,Rabu,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-27,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-05-27,Rabu,Kopi Tubruk,Kopi,Dine-in,14,10000,140000
+2026-05-27,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-27,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-27,Rabu,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-27,Rabu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-27,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-27,Rabu,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-05-27,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-27,Rabu,Roti Bakar,Makanan,Ojol,3,15000,45000
+2026-05-28,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,23,18000,414000
+2026-05-28,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-05-28,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-05-28,Kamis,Americano,Kopi,Dine-in,10,15000,150000
+2026-05-28,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-28,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-05-28,Kamis,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-05-28,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-28,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-28,Kamis,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-05-28,Kamis,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-05-28,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-28,Kamis,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-05-28,Kamis,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-05-28,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-29,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,28,18000,504000
+2026-05-29,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-05-29,Jumat,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-05-29,Jumat,Americano,Kopi,Dine-in,6,15000,90000
+2026-05-29,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-05-29,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-05-29,Jumat,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-05-29,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-05-29,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-29,Jumat,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-29,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-05-29,Jumat,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-05-29,Jumat,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-05-29,Jumat,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-05-29,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-05-30,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-05-30,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-05-30,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-05-30,Sabtu,Americano,Kopi,Dine-in,8,15000,120000
+2026-05-30,Sabtu,Americano,Kopi,Takeaway,6,15000,90000
+2026-05-30,Sabtu,Americano,Kopi,Ojol,3,15000,45000
+2026-05-30,Sabtu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-05-30,Sabtu,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-05-30,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-30,Sabtu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-05-30,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-05-30,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-05-30,Sabtu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-05-30,Sabtu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-05-30,Sabtu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-05-31,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-05-31,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-05-31,Minggu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-05-31,Minggu,Americano,Kopi,Dine-in,5,15000,75000
+2026-05-31,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-05-31,Minggu,Americano,Kopi,Ojol,3,15000,45000
+2026-05-31,Minggu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-05-31,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-05-31,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-05-31,Minggu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-05-31,Minggu,Matcha Latte,Non-Kopi,Takeaway,7,22000,154000
+2026-05-31,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-05-31,Minggu,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-05-31,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-05-31,Minggu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-01,Senin,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-06-01,Senin,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-06-01,Senin,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-06-01,Senin,Americano,Kopi,Dine-in,10,15000,150000
+2026-06-01,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-01,Senin,Americano,Kopi,Ojol,5,15000,75000
+2026-06-01,Senin,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-06-01,Senin,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-01,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-01,Senin,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-06-01,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-01,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-01,Senin,Roti Bakar,Makanan,Dine-in,14,15000,210000
+2026-06-01,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-06-01,Senin,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-06-02,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-06-02,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-06-02,Selasa,Es Kopi Susu Senja,Kopi,Ojol,10,18000,180000
+2026-06-02,Selasa,Americano,Kopi,Dine-in,10,15000,150000
+2026-06-02,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-06-02,Selasa,Americano,Kopi,Ojol,5,15000,75000
+2026-06-02,Selasa,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-06-02,Selasa,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-02,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-02,Selasa,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-02,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-02,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-02,Selasa,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-06-02,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-02,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-03,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,28,18000,504000
+2026-06-03,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-06-03,Rabu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-06-03,Rabu,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-03,Rabu,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-03,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-06-03,Rabu,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-06-03,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-03,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-03,Rabu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-03,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-03,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-03,Rabu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-06-03,Rabu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-06-03,Rabu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-06-04,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,25,18000,450000
+2026-06-04,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-06-04,Kamis,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-06-04,Kamis,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-04,Kamis,Americano,Kopi,Takeaway,2,15000,30000
+2026-06-04,Kamis,Americano,Kopi,Ojol,5,15000,75000
+2026-06-04,Kamis,Kopi Tubruk,Kopi,Dine-in,13,10000,130000
+2026-06-04,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-04,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-04,Kamis,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-06-04,Kamis,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-06-04,Kamis,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-06-04,Kamis,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-06-04,Kamis,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-06-04,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-05,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,23,18000,414000
+2026-06-05,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-06-05,Jumat,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-06-05,Jumat,Americano,Kopi,Dine-in,10,15000,150000
+2026-06-05,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-05,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-06-05,Jumat,Kopi Tubruk,Kopi,Dine-in,13,10000,130000
+2026-06-05,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-05,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-05,Jumat,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-06-05,Jumat,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-06-05,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-05,Jumat,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-06-05,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-06-05,Jumat,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-06-06,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-06-06,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-06-06,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-06-06,Sabtu,Americano,Kopi,Dine-in,9,15000,135000
+2026-06-06,Sabtu,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-06,Sabtu,Americano,Kopi,Ojol,3,15000,45000
+2026-06-06,Sabtu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-06-06,Sabtu,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-06,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-06,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-06-06,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-06,Sabtu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-06,Sabtu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-06,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-06,Sabtu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-06-07,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-06-07,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-06-07,Minggu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-06-07,Minggu,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-07,Minggu,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-07,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-06-07,Minggu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-06-07,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-06-07,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-07,Minggu,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-06-07,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-07,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-07,Minggu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-06-07,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-07,Minggu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-08,Senin,Es Kopi Susu Senja,Kopi,Dine-in,26,18000,468000
+2026-06-08,Senin,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-06-08,Senin,Es Kopi Susu Senja,Kopi,Ojol,11,18000,198000
+2026-06-08,Senin,Americano,Kopi,Dine-in,10,15000,150000
+2026-06-08,Senin,Americano,Kopi,Takeaway,3,15000,45000
+2026-06-08,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-06-08,Senin,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-06-08,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-08,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-08,Senin,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-08,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-08,Senin,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-06-08,Senin,Roti Bakar,Makanan,Dine-in,12,15000,180000
+2026-06-08,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-06-08,Senin,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-09,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-06-09,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-06-09,Selasa,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-06-09,Selasa,Americano,Kopi,Dine-in,8,15000,120000
+2026-06-09,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-06-09,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-06-09,Selasa,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-06-09,Selasa,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-09,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-09,Selasa,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-09,Selasa,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-06-09,Selasa,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-06-09,Selasa,Roti Bakar,Makanan,Dine-in,14,15000,210000
+2026-06-09,Selasa,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-06-09,Selasa,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-06-10,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,33,18000,594000
+2026-06-10,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-06-10,Rabu,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-06-10,Rabu,Americano,Kopi,Dine-in,6,15000,90000
+2026-06-10,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-06-10,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-06-10,Rabu,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-06-10,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-10,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-10,Rabu,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-06-10,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-10,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-10,Rabu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-10,Rabu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-06-10,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-11,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-06-11,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-06-11,Kamis,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-06-11,Kamis,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-11,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-11,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-06-11,Kamis,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-06-11,Kamis,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-11,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-11,Kamis,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-06-11,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-11,Kamis,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-06-11,Kamis,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-11,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-11,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-12,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,25,18000,450000
+2026-06-12,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-06-12,Jumat,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-06-12,Jumat,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-12,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-12,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-06-12,Jumat,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-06-12,Jumat,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-12,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-12,Jumat,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-12,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-12,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-12,Jumat,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-06-12,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-06-12,Jumat,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-06-13,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-06-13,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-06-13,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-06-13,Sabtu,Americano,Kopi,Dine-in,6,15000,90000
+2026-06-13,Sabtu,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-13,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-06-13,Sabtu,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-06-13,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-13,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-13,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-06-13,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-13,Sabtu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-06-13,Sabtu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-06-13,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-13,Sabtu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-06-14,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-06-14,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-06-14,Minggu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-06-14,Minggu,Americano,Kopi,Dine-in,5,15000,75000
+2026-06-14,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-14,Minggu,Americano,Kopi,Ojol,5,15000,75000
+2026-06-14,Minggu,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-06-14,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-06-14,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-14,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-06-14,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-14,Minggu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-06-14,Minggu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-06-14,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-14,Minggu,Roti Bakar,Makanan,Ojol,10,15000,150000
+2026-06-15,Senin,Es Kopi Susu Senja,Kopi,Dine-in,27,18000,486000
+2026-06-15,Senin,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-06-15,Senin,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-06-15,Senin,Americano,Kopi,Dine-in,8,15000,120000
+2026-06-15,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-15,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-06-15,Senin,Kopi Tubruk,Kopi,Dine-in,14,10000,140000
+2026-06-15,Senin,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-15,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-15,Senin,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-06-15,Senin,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-06-15,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-15,Senin,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-15,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-15,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-06-16,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-06-16,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-06-16,Selasa,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-06-16,Selasa,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-16,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-06-16,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-06-16,Selasa,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-06-16,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-16,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-16,Selasa,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-16,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-16,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-16,Selasa,Roti Bakar,Makanan,Dine-in,13,15000,195000
+2026-06-16,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-16,Selasa,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-06-17,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,31,18000,558000
+2026-06-17,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,18,18000,324000
+2026-06-17,Rabu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-06-17,Rabu,Americano,Kopi,Dine-in,9,15000,135000
+2026-06-17,Rabu,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-17,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-06-17,Rabu,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-06-17,Rabu,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-17,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-17,Rabu,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-06-17,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-17,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-17,Rabu,Roti Bakar,Makanan,Dine-in,13,15000,195000
+2026-06-17,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-17,Rabu,Roti Bakar,Makanan,Ojol,3,15000,45000
+2026-06-18,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,22,18000,396000
+2026-06-18,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-06-18,Kamis,Es Kopi Susu Senja,Kopi,Ojol,10,18000,180000
+2026-06-18,Kamis,Americano,Kopi,Dine-in,9,15000,135000
+2026-06-18,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-18,Kamis,Americano,Kopi,Ojol,5,15000,75000
+2026-06-18,Kamis,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-06-18,Kamis,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-18,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-18,Kamis,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-18,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-18,Kamis,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-06-18,Kamis,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-06-18,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-18,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-19,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,33,18000,594000
+2026-06-19,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,9,18000,162000
+2026-06-19,Jumat,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-06-19,Jumat,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-19,Jumat,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-19,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-06-19,Jumat,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-06-19,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-19,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-19,Jumat,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-06-19,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-19,Jumat,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-06-19,Jumat,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-06-19,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-06-19,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-20,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-06-20,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-06-20,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-06-20,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-20,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-20,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-06-20,Sabtu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-06-20,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-20,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-20,Sabtu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-20,Sabtu,Matcha Latte,Non-Kopi,Takeaway,2,22000,44000
+2026-06-20,Sabtu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-06-20,Sabtu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-06-20,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-20,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-21,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-06-21,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,18,18000,324000
+2026-06-21,Minggu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-06-21,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-06-21,Minggu,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-21,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-06-21,Minggu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-06-21,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-21,Minggu,Kopi Tubruk,Kopi,Ojol,2,10000,20000
+2026-06-21,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-06-21,Minggu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-06-21,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-21,Minggu,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-06-21,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-21,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-06-22,Senin,Es Kopi Susu Senja,Kopi,Dine-in,23,18000,414000
+2026-06-22,Senin,Es Kopi Susu Senja,Kopi,Takeaway,17,18000,306000
+2026-06-22,Senin,Es Kopi Susu Senja,Kopi,Ojol,11,18000,198000
+2026-06-22,Senin,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-22,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-22,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-06-22,Senin,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-06-22,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-06-22,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-22,Senin,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-22,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-22,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-22,Senin,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-22,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-06-22,Senin,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-06-23,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-06-23,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-06-23,Selasa,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-06-23,Selasa,Americano,Kopi,Dine-in,10,15000,150000
+2026-06-23,Selasa,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-23,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-06-23,Selasa,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-06-23,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-23,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-23,Selasa,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-06-23,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-23,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-23,Selasa,Roti Bakar,Makanan,Dine-in,10,15000,150000
+2026-06-23,Selasa,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-06-23,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-24,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,30,18000,540000
+2026-06-24,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-06-24,Rabu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-06-24,Rabu,Americano,Kopi,Dine-in,10,15000,150000
+2026-06-24,Rabu,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-24,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-06-24,Rabu,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-06-24,Rabu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-06-24,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-24,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-06-24,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-24,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-24,Rabu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-24,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-24,Rabu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-06-25,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,24,18000,432000
+2026-06-25,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-06-25,Kamis,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-06-25,Kamis,Americano,Kopi,Dine-in,8,15000,120000
+2026-06-25,Kamis,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-25,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-06-25,Kamis,Kopi Tubruk,Kopi,Dine-in,12,10000,120000
+2026-06-25,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-25,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-25,Kamis,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-25,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-25,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-25,Kamis,Roti Bakar,Makanan,Dine-in,14,15000,210000
+2026-06-25,Kamis,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-06-25,Kamis,Roti Bakar,Makanan,Ojol,9,15000,135000
+2026-06-26,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,28,18000,504000
+2026-06-26,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-06-26,Jumat,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-06-26,Jumat,Americano,Kopi,Dine-in,8,15000,120000
+2026-06-26,Jumat,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-26,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-06-26,Jumat,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-06-26,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-26,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-26,Jumat,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-06-26,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-26,Jumat,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-06-26,Jumat,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-26,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-26,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-27,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-06-27,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-06-27,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-06-27,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-06-27,Sabtu,Americano,Kopi,Takeaway,4,15000,60000
+2026-06-27,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-06-27,Sabtu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-06-27,Sabtu,Kopi Tubruk,Kopi,Takeaway,4,10000,40000
+2026-06-27,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-27,Sabtu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-27,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-06-27,Sabtu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-27,Sabtu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-27,Sabtu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-06-27,Sabtu,Roti Bakar,Makanan,Ojol,9,15000,135000
+2026-06-28,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-06-28,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-06-28,Minggu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-06-28,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-06-28,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-06-28,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-06-28,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-06-28,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-06-28,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-28,Minggu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-06-28,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-06-28,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-06-28,Minggu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-06-28,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-28,Minggu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-29,Senin,Es Kopi Susu Senja,Kopi,Dine-in,22,18000,396000
+2026-06-29,Senin,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-06-29,Senin,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-06-29,Senin,Americano,Kopi,Dine-in,9,15000,135000
+2026-06-29,Senin,Americano,Kopi,Takeaway,6,15000,90000
+2026-06-29,Senin,Americano,Kopi,Ojol,2,15000,30000
+2026-06-29,Senin,Kopi Tubruk,Kopi,Dine-in,11,10000,110000
+2026-06-29,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-29,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-29,Senin,Matcha Latte,Non-Kopi,Dine-in,7,22000,154000
+2026-06-29,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-06-29,Senin,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-06-29,Senin,Roti Bakar,Makanan,Dine-in,11,15000,165000
+2026-06-29,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-29,Senin,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-06-30,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-06-30,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,18,18000,324000
+2026-06-30,Selasa,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-06-30,Selasa,Americano,Kopi,Dine-in,9,15000,135000
+2026-06-30,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-06-30,Selasa,Americano,Kopi,Ojol,3,15000,45000
+2026-06-30,Selasa,Kopi Tubruk,Kopi,Dine-in,10,10000,100000
+2026-06-30,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-06-30,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-06-30,Selasa,Matcha Latte,Non-Kopi,Dine-in,8,22000,176000
+2026-06-30,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-06-30,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-06-30,Selasa,Roti Bakar,Makanan,Dine-in,15,15000,225000
+2026-06-30,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-06-30,Selasa,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-01,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-07-01,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-07-01,Rabu,Es Kopi Susu Senja,Kopi,Ojol,23,18000,414000
+2026-07-01,Rabu,Americano,Kopi,Dine-in,4,15000,60000
+2026-07-01,Rabu,Americano,Kopi,Takeaway,3,15000,45000
+2026-07-01,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-01,Rabu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-07-01,Rabu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-01,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-01,Rabu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-01,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-01,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-01,Rabu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-01,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-01,Rabu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-02,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-07-02,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-07-02,Kamis,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-07-02,Kamis,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-02,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-02,Kamis,Americano,Kopi,Ojol,5,15000,75000
+2026-07-02,Kamis,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-02,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-02,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-02,Kamis,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-07-02,Kamis,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-02,Kamis,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-07-02,Kamis,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-02,Kamis,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-02,Kamis,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-03,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-07-03,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,9,18000,162000
+2026-07-03,Jumat,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-07-03,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-03,Jumat,Americano,Kopi,Takeaway,3,15000,45000
+2026-07-03,Jumat,Americano,Kopi,Ojol,3,15000,45000
+2026-07-03,Jumat,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-03,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-03,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-03,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-03,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-03,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-03,Jumat,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-07-03,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-03,Jumat,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-04,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-07-04,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-07-04,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,23,18000,414000
+2026-07-04,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-07-04,Sabtu,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-04,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-07-04,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-04,Sabtu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-04,Sabtu,Kopi Tubruk,Kopi,Ojol,2,10000,20000
+2026-07-04,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-04,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-04,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-07-04,Sabtu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-07-04,Sabtu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-04,Sabtu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-05,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-07-05,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-07-05,Minggu,Es Kopi Susu Senja,Kopi,Ojol,11,18000,198000
+2026-07-05,Minggu,Americano,Kopi,Dine-in,4,15000,60000
+2026-07-05,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-05,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-05,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-05,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-05,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-05,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-05,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-05,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-05,Minggu,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-07-05,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-05,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-07-06,Senin,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-07-06,Senin,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-07-06,Senin,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-07-06,Senin,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-06,Senin,Americano,Kopi,Takeaway,2,15000,30000
+2026-07-06,Senin,Americano,Kopi,Ojol,3,15000,45000
+2026-07-06,Senin,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-07-06,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-06,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-06,Senin,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-06,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-07-06,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-07-06,Senin,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-07-06,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-07-06,Senin,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-07-07,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-07-07,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-07-07,Selasa,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-07-07,Selasa,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-07,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-07,Selasa,Americano,Kopi,Ojol,5,15000,75000
+2026-07-07,Selasa,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-07,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-07,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-07,Selasa,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-07,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-07,Selasa,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-07-07,Selasa,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-07-07,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-07,Selasa,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-08,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-07-08,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-07-08,Rabu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-07-08,Rabu,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-08,Rabu,Americano,Kopi,Takeaway,5,15000,75000
+2026-07-08,Rabu,Americano,Kopi,Ojol,2,15000,30000
+2026-07-08,Rabu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-07-08,Rabu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-08,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-08,Rabu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-07-08,Rabu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-08,Rabu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-07-08,Rabu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-08,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-08,Rabu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-07-09,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-07-09,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-07-09,Kamis,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-07-09,Kamis,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-09,Kamis,Americano,Kopi,Takeaway,6,15000,90000
+2026-07-09,Kamis,Americano,Kopi,Ojol,3,15000,45000
+2026-07-09,Kamis,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-07-09,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-09,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-09,Kamis,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-09,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-09,Kamis,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-07-09,Kamis,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-07-09,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-09,Kamis,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-10,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,11,18000,198000
+2026-07-10,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-07-10,Jumat,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-07-10,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-10,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-10,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-07-10,Jumat,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-10,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-10,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-10,Jumat,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-10,Jumat,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-10,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-10,Jumat,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-10,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-10,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-07-11,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-07-11,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-07-11,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-07-11,Sabtu,Americano,Kopi,Dine-in,7,15000,105000
+2026-07-11,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-07-11,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-11,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-11,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-11,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-11,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-11,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-11,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-07-11,Sabtu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-11,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-11,Sabtu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-12,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-07-12,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-07-12,Minggu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-07-12,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-12,Minggu,Americano,Kopi,Takeaway,3,15000,45000
+2026-07-12,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-12,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-12,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-12,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-12,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-12,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-12,Minggu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-07-12,Minggu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-12,Minggu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-12,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-07-13,Senin,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-07-13,Senin,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-07-13,Senin,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-07-13,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-13,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-13,Senin,Americano,Kopi,Ojol,5,15000,75000
+2026-07-13,Senin,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-07-13,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-13,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-13,Senin,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-13,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-13,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-07-13,Senin,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-07-13,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-13,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-14,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-07-14,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-07-14,Selasa,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-07-14,Selasa,Americano,Kopi,Dine-in,7,15000,105000
+2026-07-14,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-14,Selasa,Americano,Kopi,Ojol,3,15000,45000
+2026-07-14,Selasa,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-14,Selasa,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-14,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-14,Selasa,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-14,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-14,Selasa,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-07-14,Selasa,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-14,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-14,Selasa,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-15,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-07-15,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,6,18000,108000
+2026-07-15,Rabu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-07-15,Rabu,Americano,Kopi,Dine-in,4,15000,60000
+2026-07-15,Rabu,Americano,Kopi,Takeaway,3,15000,45000
+2026-07-15,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-07-15,Rabu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-15,Rabu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-15,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-15,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-15,Rabu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-15,Rabu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-07-15,Rabu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-15,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-15,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-07-16,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-07-16,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-07-16,Kamis,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-07-16,Kamis,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-16,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-16,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-07-16,Kamis,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-16,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-16,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-16,Kamis,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-16,Kamis,Matcha Latte,Non-Kopi,Takeaway,6,22000,132000
+2026-07-16,Kamis,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-07-16,Kamis,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-07-16,Kamis,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-07-16,Kamis,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-17,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-07-17,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-07-17,Jumat,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-07-17,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-17,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-17,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-07-17,Jumat,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-07-17,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-17,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-17,Jumat,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-17,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-17,Jumat,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-07-17,Jumat,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-07-17,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-17,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-07-18,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-07-18,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-07-18,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-07-18,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-18,Sabtu,Americano,Kopi,Takeaway,6,15000,90000
+2026-07-18,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-18,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-18,Sabtu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-18,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-18,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-07-18,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-18,Sabtu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-07-18,Sabtu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-07-18,Sabtu,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-07-18,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-07-19,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-07-19,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-07-19,Minggu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-07-19,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-19,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-07-19,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-19,Minggu,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-07-19,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-19,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-19,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-19,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-19,Minggu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-07-19,Minggu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-07-19,Minggu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-19,Minggu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-20,Senin,Es Kopi Susu Senja,Kopi,Dine-in,10,18000,180000
+2026-07-20,Senin,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-07-20,Senin,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-07-20,Senin,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-20,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-20,Senin,Americano,Kopi,Ojol,5,15000,75000
+2026-07-20,Senin,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-20,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-20,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-20,Senin,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-07-20,Senin,Matcha Latte,Non-Kopi,Takeaway,6,22000,132000
+2026-07-20,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-20,Senin,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-07-20,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-07-20,Senin,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-07-21,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-07-21,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-07-21,Selasa,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-07-21,Selasa,Americano,Kopi,Dine-in,3,15000,45000
+2026-07-21,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-21,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-07-21,Selasa,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-21,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-21,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-21,Selasa,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-21,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-21,Selasa,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-07-21,Selasa,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-07-21,Selasa,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-21,Selasa,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-22,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-07-22,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-07-22,Rabu,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-07-22,Rabu,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-22,Rabu,Americano,Kopi,Takeaway,3,15000,45000
+2026-07-22,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-07-22,Rabu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-07-22,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-22,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-22,Rabu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-22,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-22,Rabu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-07-22,Rabu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-07-22,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-22,Rabu,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-07-23,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-07-23,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-07-23,Kamis,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-07-23,Kamis,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-23,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-23,Kamis,Americano,Kopi,Ojol,3,15000,45000
+2026-07-23,Kamis,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-23,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-23,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-23,Kamis,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-23,Kamis,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-07-23,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-23,Kamis,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-23,Kamis,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-23,Kamis,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-24,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,11,18000,198000
+2026-07-24,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-07-24,Jumat,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-07-24,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-24,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-07-24,Jumat,Americano,Kopi,Ojol,3,15000,45000
+2026-07-24,Jumat,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-24,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-24,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-24,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-24,Jumat,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-07-24,Jumat,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-07-24,Jumat,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-24,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-24,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-07-25,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-07-25,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-07-25,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-07-25,Sabtu,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-25,Sabtu,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-25,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-25,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-25,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-25,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-25,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-07-25,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-25,Sabtu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-07-25,Sabtu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-07-25,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-25,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-07-26,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,13,18000,234000
+2026-07-26,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-07-26,Minggu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-07-26,Minggu,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-26,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-07-26,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-26,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-07-26,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-26,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-26,Minggu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-07-26,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-26,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-07-26,Minggu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-26,Minggu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-07-26,Minggu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-27,Senin,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-07-27,Senin,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-07-27,Senin,Es Kopi Susu Senja,Kopi,Ojol,11,18000,198000
+2026-07-27,Senin,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-27,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-27,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-07-27,Senin,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-07-27,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-27,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-27,Senin,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-27,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-27,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-27,Senin,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-27,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-27,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-28,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-07-28,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-07-28,Selasa,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-07-28,Selasa,Americano,Kopi,Dine-in,4,15000,60000
+2026-07-28,Selasa,Americano,Kopi,Takeaway,6,15000,90000
+2026-07-28,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-07-28,Selasa,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-28,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-28,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-28,Selasa,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-28,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-28,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-28,Selasa,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-07-28,Selasa,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-07-28,Selasa,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-07-29,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,13,18000,234000
+2026-07-29,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-07-29,Rabu,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-07-29,Rabu,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-29,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-29,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-07-29,Rabu,Kopi Tubruk,Kopi,Dine-in,4,10000,40000
+2026-07-29,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-29,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-29,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-29,Rabu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-07-29,Rabu,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-07-29,Rabu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-07-29,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-29,Rabu,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-07-30,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-07-30,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-07-30,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-07-30,Kamis,Americano,Kopi,Dine-in,5,15000,75000
+2026-07-30,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-07-30,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-07-30,Kamis,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-07-30,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-07-30,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-30,Kamis,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-07-30,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-07-30,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-07-30,Kamis,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-07-30,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-30,Kamis,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-07-31,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-07-31,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-07-31,Jumat,Es Kopi Susu Senja,Kopi,Ojol,10,18000,180000
+2026-07-31,Jumat,Americano,Kopi,Dine-in,6,15000,90000
+2026-07-31,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-07-31,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-07-31,Jumat,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-07-31,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-07-31,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-07-31,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-07-31,Jumat,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-07-31,Jumat,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-07-31,Jumat,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-07-31,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-07-31,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-01,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-08-01,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-01,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-08-01,Sabtu,Americano,Kopi,Dine-in,4,15000,60000
+2026-08-01,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-01,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-08-01,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-01,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-01,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-01,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-01,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-08-01,Sabtu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-01,Sabtu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-01,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-01,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-02,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-08-02,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-08-02,Minggu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-08-02,Minggu,Americano,Kopi,Dine-in,7,15000,105000
+2026-08-02,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-02,Minggu,Americano,Kopi,Ojol,5,15000,75000
+2026-08-02,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-02,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-02,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-02,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-02,Minggu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-02,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-02,Minggu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-08-02,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-02,Minggu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-08-03,Senin,Es Kopi Susu Senja,Kopi,Dine-in,21,18000,378000
+2026-08-03,Senin,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-03,Senin,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-08-03,Senin,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-03,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-03,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-08-03,Senin,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-03,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-03,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-03,Senin,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-03,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-03,Senin,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-08-03,Senin,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-08-03,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-03,Senin,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-04,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-08-04,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-08-04,Selasa,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-04,Selasa,Americano,Kopi,Dine-in,6,15000,90000
+2026-08-04,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-04,Selasa,Americano,Kopi,Ojol,5,15000,75000
+2026-08-04,Selasa,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-04,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-04,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-04,Selasa,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-04,Selasa,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-04,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-04,Selasa,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-04,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-04,Selasa,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-08-05,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-08-05,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-08-05,Rabu,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-08-05,Rabu,Americano,Kopi,Dine-in,6,15000,90000
+2026-08-05,Rabu,Americano,Kopi,Takeaway,3,15000,45000
+2026-08-05,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-08-05,Rabu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-05,Rabu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-05,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-05,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-05,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-05,Rabu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-08-05,Rabu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-05,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-05,Rabu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-08-06,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,11,18000,198000
+2026-08-06,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-08-06,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-06,Kamis,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-06,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-06,Kamis,Americano,Kopi,Ojol,5,15000,75000
+2026-08-06,Kamis,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-06,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-06,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-06,Kamis,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-06,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-06,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-06,Kamis,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-06,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-06,Kamis,Roti Bakar,Makanan,Ojol,3,15000,45000
+2026-08-07,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,20,18000,360000
+2026-08-07,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-08-07,Jumat,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-08-07,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-07,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-07,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-08-07,Jumat,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-07,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-07,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-07,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-07,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-07,Jumat,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-08-07,Jumat,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-07,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-08-07,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-08,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-08-08,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-08-08,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-08-08,Sabtu,Americano,Kopi,Dine-in,4,15000,60000
+2026-08-08,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-08,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-08-08,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-08,Sabtu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-08,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-08,Sabtu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-08,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-08-08,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-08-08,Sabtu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-08,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-08,Sabtu,Roti Bakar,Makanan,Ojol,9,15000,135000
+2026-08-09,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-08-09,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-09,Minggu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-08-09,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-08-09,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-09,Minggu,Americano,Kopi,Ojol,5,15000,75000
+2026-08-09,Minggu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-09,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-09,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-09,Minggu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-09,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-09,Minggu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-08-09,Minggu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-09,Minggu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-08-09,Minggu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-10,Senin,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-08-10,Senin,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-08-10,Senin,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-08-10,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-08-10,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-10,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-08-10,Senin,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-10,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-10,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-10,Senin,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-10,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-10,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-10,Senin,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-08-10,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-10,Senin,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-08-11,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-08-11,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-11,Selasa,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-08-11,Selasa,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-11,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-11,Selasa,Americano,Kopi,Ojol,3,15000,45000
+2026-08-11,Selasa,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-11,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-11,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-11,Selasa,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-11,Selasa,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-11,Selasa,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-08-11,Selasa,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-11,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-11,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-12,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-08-12,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-08-12,Rabu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-08-12,Rabu,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-12,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-12,Rabu,Americano,Kopi,Ojol,5,15000,75000
+2026-08-12,Rabu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-12,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-12,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-12,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-12,Rabu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-08-12,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-12,Rabu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-12,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-12,Rabu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-13,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-08-13,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-08-13,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-13,Kamis,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-13,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-13,Kamis,Americano,Kopi,Ojol,5,15000,75000
+2026-08-13,Kamis,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-13,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-13,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-13,Kamis,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-13,Kamis,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-13,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-13,Kamis,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-13,Kamis,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-08-13,Kamis,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-14,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-08-14,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-08-14,Jumat,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-14,Jumat,Americano,Kopi,Dine-in,4,15000,60000
+2026-08-14,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-14,Jumat,Americano,Kopi,Ojol,3,15000,45000
+2026-08-14,Jumat,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-08-14,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-14,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-14,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-14,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-14,Jumat,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-08-14,Jumat,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-08-14,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-14,Jumat,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-08-15,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-08-15,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-08-15,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-08-15,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-15,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-15,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-08-15,Sabtu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-15,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-15,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-15,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-08-15,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-08-15,Sabtu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-15,Sabtu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-08-15,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-15,Sabtu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-08-16,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-08-16,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-08-16,Minggu,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-08-16,Minggu,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-16,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-16,Minggu,Americano,Kopi,Ojol,6,15000,90000
+2026-08-16,Minggu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-16,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-16,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-16,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-16,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-16,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-16,Minggu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-16,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-16,Minggu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-08-17,Senin,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-08-17,Senin,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-08-17,Senin,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-08-17,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-08-17,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-17,Senin,Americano,Kopi,Ojol,5,15000,75000
+2026-08-17,Senin,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-17,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-17,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-17,Senin,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-17,Senin,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-08-17,Senin,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-08-17,Senin,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-17,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-08-17,Senin,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-18,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-08-18,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-18,Selasa,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-08-18,Selasa,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-18,Selasa,Americano,Kopi,Takeaway,6,15000,90000
+2026-08-18,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-08-18,Selasa,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-18,Selasa,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-18,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-18,Selasa,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-18,Selasa,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-18,Selasa,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-08-18,Selasa,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-08-18,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-18,Selasa,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-08-19,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-08-19,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-08-19,Rabu,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-19,Rabu,Americano,Kopi,Dine-in,4,15000,60000
+2026-08-19,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-19,Rabu,Americano,Kopi,Ojol,5,15000,75000
+2026-08-19,Rabu,Kopi Tubruk,Kopi,Dine-in,4,10000,40000
+2026-08-19,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-19,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-19,Rabu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-08-19,Rabu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-08-19,Rabu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-08-19,Rabu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-08-19,Rabu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-08-19,Rabu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-20,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-08-20,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-20,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-20,Kamis,Americano,Kopi,Dine-in,6,15000,90000
+2026-08-20,Kamis,Americano,Kopi,Takeaway,6,15000,90000
+2026-08-20,Kamis,Americano,Kopi,Ojol,5,15000,75000
+2026-08-20,Kamis,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-20,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-20,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-20,Kamis,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-20,Kamis,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-20,Kamis,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-20,Kamis,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-20,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-20,Kamis,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-08-21,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,10,18000,180000
+2026-08-21,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-21,Jumat,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-08-21,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-21,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-21,Jumat,Americano,Kopi,Ojol,5,15000,75000
+2026-08-21,Jumat,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-21,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-21,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-21,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-21,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-21,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-21,Jumat,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-21,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-08-21,Jumat,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-22,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,13,18000,234000
+2026-08-22,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-08-22,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-08-22,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-22,Sabtu,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-22,Sabtu,Americano,Kopi,Ojol,6,15000,90000
+2026-08-22,Sabtu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-22,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-22,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-22,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-08-22,Sabtu,Matcha Latte,Non-Kopi,Takeaway,6,22000,132000
+2026-08-22,Sabtu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-22,Sabtu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-22,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-22,Sabtu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-23,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-08-23,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-08-23,Minggu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-08-23,Minggu,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-23,Minggu,Americano,Kopi,Takeaway,3,15000,45000
+2026-08-23,Minggu,Americano,Kopi,Ojol,5,15000,75000
+2026-08-23,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-23,Minggu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-23,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-23,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-23,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-23,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-23,Minggu,Roti Bakar,Makanan,Dine-in,4,15000,60000
+2026-08-23,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-23,Minggu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-24,Senin,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-08-24,Senin,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-08-24,Senin,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-08-24,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-08-24,Senin,Americano,Kopi,Takeaway,3,15000,45000
+2026-08-24,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-08-24,Senin,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-24,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-24,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-24,Senin,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-24,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-24,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-08-24,Senin,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-08-24,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-24,Senin,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-25,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,11,18000,198000
+2026-08-25,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-08-25,Selasa,Es Kopi Susu Senja,Kopi,Ojol,19,18000,342000
+2026-08-25,Selasa,Americano,Kopi,Dine-in,4,15000,60000
+2026-08-25,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-25,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-08-25,Selasa,Kopi Tubruk,Kopi,Dine-in,9,10000,90000
+2026-08-25,Selasa,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-25,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-25,Selasa,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-25,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-25,Selasa,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-08-25,Selasa,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-08-25,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-25,Selasa,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-08-26,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-08-26,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,6,18000,108000
+2026-08-26,Rabu,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-26,Rabu,Americano,Kopi,Dine-in,7,15000,105000
+2026-08-26,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-26,Rabu,Americano,Kopi,Ojol,5,15000,75000
+2026-08-26,Rabu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-26,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-26,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-26,Rabu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-26,Rabu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-26,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-26,Rabu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-08-26,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-26,Rabu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-27,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-08-27,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-08-27,Kamis,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-08-27,Kamis,Americano,Kopi,Dine-in,4,15000,60000
+2026-08-27,Kamis,Americano,Kopi,Takeaway,4,15000,60000
+2026-08-27,Kamis,Americano,Kopi,Ojol,3,15000,45000
+2026-08-27,Kamis,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-27,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-27,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-27,Kamis,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-27,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-27,Kamis,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-08-27,Kamis,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-08-27,Kamis,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-08-27,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-28,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-08-28,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-08-28,Jumat,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-08-28,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-28,Jumat,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-28,Jumat,Americano,Kopi,Ojol,3,15000,45000
+2026-08-28,Jumat,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-28,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-08-28,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-28,Jumat,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-28,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-28,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-28,Jumat,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-28,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-28,Jumat,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-08-29,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,10,18000,180000
+2026-08-29,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-08-29,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-08-29,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-29,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-29,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-08-29,Sabtu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-08-29,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-29,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-29,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-29,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-08-29,Sabtu,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-08-29,Sabtu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-08-29,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-29,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-30,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-08-30,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-08-30,Minggu,Es Kopi Susu Senja,Kopi,Ojol,23,18000,414000
+2026-08-30,Minggu,Americano,Kopi,Dine-in,5,15000,75000
+2026-08-30,Minggu,Americano,Kopi,Takeaway,3,15000,45000
+2026-08-30,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-08-30,Minggu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-08-30,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-30,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-30,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-08-30,Minggu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-08-30,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-08-30,Minggu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-08-30,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-30,Minggu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-08-31,Senin,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-08-31,Senin,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-08-31,Senin,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-08-31,Senin,Americano,Kopi,Dine-in,4,15000,60000
+2026-08-31,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-08-31,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-08-31,Senin,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-08-31,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-08-31,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-08-31,Senin,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-08-31,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-08-31,Senin,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-08-31,Senin,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-08-31,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-08-31,Senin,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-09-01,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-09-01,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-01,Selasa,Es Kopi Susu Senja,Kopi,Ojol,17,18000,306000
+2026-09-01,Selasa,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-01,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-01,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-09-01,Selasa,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-09-01,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-01,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-01,Selasa,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-01,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-09-01,Selasa,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-01,Selasa,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-01,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-01,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-02,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-09-02,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-09-02,Rabu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-09-02,Rabu,Americano,Kopi,Dine-in,7,15000,105000
+2026-09-02,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-02,Rabu,Americano,Kopi,Ojol,5,15000,75000
+2026-09-02,Rabu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-09-02,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-02,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-02,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-02,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-02,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-02,Rabu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-02,Rabu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-09-02,Rabu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-09-03,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-09-03,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,16,18000,288000
+2026-09-03,Kamis,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-09-03,Kamis,Americano,Kopi,Dine-in,7,15000,105000
+2026-09-03,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-03,Kamis,Americano,Kopi,Ojol,3,15000,45000
+2026-09-03,Kamis,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-03,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-03,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-03,Kamis,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-03,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-03,Kamis,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-03,Kamis,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-09-03,Kamis,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-09-03,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-04,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-09-04,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-09-04,Jumat,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-09-04,Jumat,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-04,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-04,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-09-04,Jumat,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-04,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-04,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-04,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-04,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-04,Jumat,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-09-04,Jumat,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-09-04,Jumat,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-09-04,Jumat,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-09-05,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-09-05,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-05,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-09-05,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-05,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-05,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-09-05,Sabtu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-09-05,Sabtu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-05,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-05,Sabtu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-05,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-09-05,Sabtu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-05,Sabtu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-09-05,Sabtu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-09-05,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-06,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-09-06,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-09-06,Minggu,Es Kopi Susu Senja,Kopi,Ojol,22,18000,396000
+2026-09-06,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-06,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-06,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-09-06,Minggu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-09-06,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-06,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-06,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-06,Minggu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-09-06,Minggu,Matcha Latte,Non-Kopi,Ojol,8,22000,176000
+2026-09-06,Minggu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-09-06,Minggu,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-09-06,Minggu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-09-07,Senin,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-09-07,Senin,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-09-07,Senin,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-09-07,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-07,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-07,Senin,Americano,Kopi,Ojol,3,15000,45000
+2026-09-07,Senin,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-07,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-07,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-07,Senin,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-07,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-09-07,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-07,Senin,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-09-07,Senin,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-09-07,Senin,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-09-08,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-09-08,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-08,Selasa,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-09-08,Selasa,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-08,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-08,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-09-08,Selasa,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-08,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-08,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-08,Selasa,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-08,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-08,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-08,Selasa,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-09-08,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-08,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-09,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,13,18000,234000
+2026-09-09,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,15,18000,270000
+2026-09-09,Rabu,Es Kopi Susu Senja,Kopi,Ojol,18,18000,324000
+2026-09-09,Rabu,Americano,Kopi,Dine-in,4,15000,60000
+2026-09-09,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-09,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-09-09,Rabu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-09,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-09,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-09,Rabu,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-09,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-09,Rabu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-09-09,Rabu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-09,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-09,Rabu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-09-10,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-09-10,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-10,Kamis,Es Kopi Susu Senja,Kopi,Ojol,11,18000,198000
+2026-09-10,Kamis,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-10,Kamis,Americano,Kopi,Takeaway,3,15000,45000
+2026-09-10,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-09-10,Kamis,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-10,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-10,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-10,Kamis,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-10,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-10,Kamis,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-10,Kamis,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-09-10,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-10,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-11,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,11,18000,198000
+2026-09-11,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-09-11,Jumat,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-09-11,Jumat,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-11,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-11,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-09-11,Jumat,Kopi Tubruk,Kopi,Dine-in,4,10000,40000
+2026-09-11,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-11,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-11,Jumat,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-11,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-11,Jumat,Matcha Latte,Non-Kopi,Ojol,7,22000,154000
+2026-09-11,Jumat,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-09-11,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-11,Jumat,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-09-12,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-09-12,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-09-12,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-09-12,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-12,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-12,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-09-12,Sabtu,Kopi Tubruk,Kopi,Dine-in,3,10000,30000
+2026-09-12,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-12,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-12,Sabtu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-12,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-12,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-09-12,Sabtu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-12,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-12,Sabtu,Roti Bakar,Makanan,Ojol,9,15000,135000
+2026-09-13,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-09-13,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,10,18000,180000
+2026-09-13,Minggu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-09-13,Minggu,Americano,Kopi,Dine-in,4,15000,60000
+2026-09-13,Minggu,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-13,Minggu,Americano,Kopi,Ojol,2,15000,30000
+2026-09-13,Minggu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-13,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-13,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-13,Minggu,Matcha Latte,Non-Kopi,Dine-in,6,22000,132000
+2026-09-13,Minggu,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-09-13,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-13,Minggu,Roti Bakar,Makanan,Dine-in,4,15000,60000
+2026-09-13,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-13,Minggu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-09-14,Senin,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-09-14,Senin,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-09-14,Senin,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-09-14,Senin,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-14,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-14,Senin,Americano,Kopi,Ojol,5,15000,75000
+2026-09-14,Senin,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-14,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-14,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-14,Senin,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-14,Senin,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-09-14,Senin,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-09-14,Senin,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-14,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-14,Senin,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-09-15,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-09-15,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-09-15,Selasa,Es Kopi Susu Senja,Kopi,Ojol,10,18000,180000
+2026-09-15,Selasa,Americano,Kopi,Dine-in,7,15000,105000
+2026-09-15,Selasa,Americano,Kopi,Takeaway,6,15000,90000
+2026-09-15,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-09-15,Selasa,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-09-15,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-15,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-15,Selasa,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-15,Selasa,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-09-15,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-15,Selasa,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-15,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-15,Selasa,Roti Bakar,Makanan,Ojol,4,15000,60000
+2026-09-16,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,13,18000,234000
+2026-09-16,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-16,Rabu,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-09-16,Rabu,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-16,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-16,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-09-16,Rabu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-16,Rabu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-16,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-16,Rabu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-16,Rabu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-09-16,Rabu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-16,Rabu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-16,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-16,Rabu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-09-17,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,14,18000,252000
+2026-09-17,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-09-17,Kamis,Es Kopi Susu Senja,Kopi,Ojol,13,18000,234000
+2026-09-17,Kamis,Americano,Kopi,Dine-in,4,15000,60000
+2026-09-17,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-17,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-09-17,Kamis,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-17,Kamis,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-17,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-17,Kamis,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-17,Kamis,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-09-17,Kamis,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-17,Kamis,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-09-17,Kamis,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-17,Kamis,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-18,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-09-18,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-09-18,Jumat,Es Kopi Susu Senja,Kopi,Ojol,14,18000,252000
+2026-09-18,Jumat,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-18,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-18,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-09-18,Jumat,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-18,Jumat,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-18,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-18,Jumat,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-18,Jumat,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-18,Jumat,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-09-18,Jumat,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-18,Jumat,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-18,Jumat,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-09-19,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-09-19,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-09-19,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-09-19,Sabtu,Americano,Kopi,Dine-in,4,15000,60000
+2026-09-19,Sabtu,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-19,Sabtu,Americano,Kopi,Ojol,4,15000,60000
+2026-09-19,Sabtu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-19,Sabtu,Kopi Tubruk,Kopi,Takeaway,1,10000,10000
+2026-09-19,Sabtu,Kopi Tubruk,Kopi,Ojol,2,10000,20000
+2026-09-19,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-19,Sabtu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-19,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-09-19,Sabtu,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-09-19,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-19,Sabtu,Roti Bakar,Makanan,Ojol,8,15000,120000
+2026-09-20,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,9,18000,162000
+2026-09-20,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-20,Minggu,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-09-20,Minggu,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-20,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-20,Minggu,Americano,Kopi,Ojol,4,15000,60000
+2026-09-20,Minggu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-20,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-20,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-20,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-20,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-20,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-20,Minggu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-09-20,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-20,Minggu,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-09-21,Senin,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-09-21,Senin,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-21,Senin,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-09-21,Senin,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-21,Senin,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-21,Senin,Americano,Kopi,Ojol,3,15000,45000
+2026-09-21,Senin,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-21,Senin,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-21,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-21,Senin,Matcha Latte,Non-Kopi,Dine-in,5,22000,110000
+2026-09-21,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-21,Senin,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-21,Senin,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-09-21,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-21,Senin,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-09-22,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,18,18000,324000
+2026-09-22,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-09-22,Selasa,Es Kopi Susu Senja,Kopi,Ojol,24,18000,432000
+2026-09-22,Selasa,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-22,Selasa,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-22,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-09-22,Selasa,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-22,Selasa,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-22,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-22,Selasa,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-22,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-22,Selasa,Matcha Latte,Non-Kopi,Ojol,3,22000,66000
+2026-09-22,Selasa,Roti Bakar,Makanan,Dine-in,6,15000,90000
+2026-09-22,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-22,Selasa,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-23,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,13,18000,234000
+2026-09-23,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-09-23,Rabu,Es Kopi Susu Senja,Kopi,Ojol,16,18000,288000
+2026-09-23,Rabu,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-23,Rabu,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-23,Rabu,Americano,Kopi,Ojol,4,15000,60000
+2026-09-23,Rabu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-09-23,Rabu,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-23,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-23,Rabu,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-23,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-23,Rabu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-23,Rabu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-09-23,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-23,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-24,Kamis,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-09-24,Kamis,Es Kopi Susu Senja,Kopi,Takeaway,8,18000,144000
+2026-09-24,Kamis,Es Kopi Susu Senja,Kopi,Ojol,15,18000,270000
+2026-09-24,Kamis,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-24,Kamis,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-24,Kamis,Americano,Kopi,Ojol,4,15000,60000
+2026-09-24,Kamis,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-24,Kamis,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-24,Kamis,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-24,Kamis,Matcha Latte,Non-Kopi,Dine-in,2,22000,44000
+2026-09-24,Kamis,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-24,Kamis,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-24,Kamis,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-24,Kamis,Roti Bakar,Makanan,Takeaway,4,15000,60000
+2026-09-24,Kamis,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-09-25,Jumat,Es Kopi Susu Senja,Kopi,Dine-in,17,18000,306000
+2026-09-25,Jumat,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-09-25,Jumat,Es Kopi Susu Senja,Kopi,Ojol,21,18000,378000
+2026-09-25,Jumat,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-25,Jumat,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-25,Jumat,Americano,Kopi,Ojol,4,15000,60000
+2026-09-25,Jumat,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-09-25,Jumat,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-25,Jumat,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-25,Jumat,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-25,Jumat,Matcha Latte,Non-Kopi,Takeaway,5,22000,110000
+2026-09-25,Jumat,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-25,Jumat,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-25,Jumat,Roti Bakar,Makanan,Takeaway,2,15000,30000
+2026-09-25,Jumat,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-26,Sabtu,Es Kopi Susu Senja,Kopi,Dine-in,13,18000,234000
+2026-09-26,Sabtu,Es Kopi Susu Senja,Kopi,Takeaway,11,18000,198000
+2026-09-26,Sabtu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-09-26,Sabtu,Americano,Kopi,Dine-in,5,15000,75000
+2026-09-26,Sabtu,Americano,Kopi,Takeaway,3,15000,45000
+2026-09-26,Sabtu,Americano,Kopi,Ojol,5,15000,75000
+2026-09-26,Sabtu,Kopi Tubruk,Kopi,Dine-in,5,10000,50000
+2026-09-26,Sabtu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-26,Sabtu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-26,Sabtu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-26,Sabtu,Matcha Latte,Non-Kopi,Takeaway,3,22000,66000
+2026-09-26,Sabtu,Matcha Latte,Non-Kopi,Ojol,6,22000,132000
+2026-09-26,Sabtu,Roti Bakar,Makanan,Dine-in,9,15000,135000
+2026-09-26,Sabtu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-26,Sabtu,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-27,Minggu,Es Kopi Susu Senja,Kopi,Dine-in,12,18000,216000
+2026-09-27,Minggu,Es Kopi Susu Senja,Kopi,Takeaway,14,18000,252000
+2026-09-27,Minggu,Es Kopi Susu Senja,Kopi,Ojol,23,18000,414000
+2026-09-27,Minggu,Americano,Kopi,Dine-in,7,15000,105000
+2026-09-27,Minggu,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-27,Minggu,Americano,Kopi,Ojol,5,15000,75000
+2026-09-27,Minggu,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-27,Minggu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-27,Minggu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-27,Minggu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-27,Minggu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-27,Minggu,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-27,Minggu,Roti Bakar,Makanan,Dine-in,7,15000,105000
+2026-09-27,Minggu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-27,Minggu,Roti Bakar,Makanan,Ojol,7,15000,105000
+2026-09-28,Senin,Es Kopi Susu Senja,Kopi,Dine-in,16,18000,288000
+2026-09-28,Senin,Es Kopi Susu Senja,Kopi,Takeaway,12,18000,216000
+2026-09-28,Senin,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-09-28,Senin,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-28,Senin,Americano,Kopi,Takeaway,4,15000,60000
+2026-09-28,Senin,Americano,Kopi,Ojol,4,15000,60000
+2026-09-28,Senin,Kopi Tubruk,Kopi,Dine-in,7,10000,70000
+2026-09-28,Senin,Kopi Tubruk,Kopi,Takeaway,2,10000,20000
+2026-09-28,Senin,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-28,Senin,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-28,Senin,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-28,Senin,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-28,Senin,Roti Bakar,Makanan,Dine-in,5,15000,75000
+2026-09-28,Senin,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-28,Senin,Roti Bakar,Makanan,Ojol,6,15000,90000
+2026-09-29,Selasa,Es Kopi Susu Senja,Kopi,Dine-in,19,18000,342000
+2026-09-29,Selasa,Es Kopi Susu Senja,Kopi,Takeaway,13,18000,234000
+2026-09-29,Selasa,Es Kopi Susu Senja,Kopi,Ojol,12,18000,216000
+2026-09-29,Selasa,Americano,Kopi,Dine-in,4,15000,60000
+2026-09-29,Selasa,Americano,Kopi,Takeaway,5,15000,75000
+2026-09-29,Selasa,Americano,Kopi,Ojol,4,15000,60000
+2026-09-29,Selasa,Kopi Tubruk,Kopi,Dine-in,8,10000,80000
+2026-09-29,Selasa,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-29,Selasa,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-29,Selasa,Matcha Latte,Non-Kopi,Dine-in,3,22000,66000
+2026-09-29,Selasa,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-29,Selasa,Matcha Latte,Non-Kopi,Ojol,5,22000,110000
+2026-09-29,Selasa,Roti Bakar,Makanan,Dine-in,4,15000,60000
+2026-09-29,Selasa,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-29,Selasa,Roti Bakar,Makanan,Ojol,5,15000,75000
+2026-09-30,Rabu,Es Kopi Susu Senja,Kopi,Dine-in,15,18000,270000
+2026-09-30,Rabu,Es Kopi Susu Senja,Kopi,Takeaway,7,18000,126000
+2026-09-30,Rabu,Es Kopi Susu Senja,Kopi,Ojol,20,18000,360000
+2026-09-30,Rabu,Americano,Kopi,Dine-in,6,15000,90000
+2026-09-30,Rabu,Americano,Kopi,Takeaway,6,15000,90000
+2026-09-30,Rabu,Americano,Kopi,Ojol,3,15000,45000
+2026-09-30,Rabu,Kopi Tubruk,Kopi,Dine-in,6,10000,60000
+2026-09-30,Rabu,Kopi Tubruk,Kopi,Takeaway,3,10000,30000
+2026-09-30,Rabu,Kopi Tubruk,Kopi,Ojol,1,10000,10000
+2026-09-30,Rabu,Matcha Latte,Non-Kopi,Dine-in,4,22000,88000
+2026-09-30,Rabu,Matcha Latte,Non-Kopi,Takeaway,4,22000,88000
+2026-09-30,Rabu,Matcha Latte,Non-Kopi,Ojol,4,22000,88000
+2026-09-30,Rabu,Roti Bakar,Makanan,Dine-in,8,15000,120000
+2026-09-30,Rabu,Roti Bakar,Makanan,Takeaway,3,15000,45000
+2026-09-30,Rabu,Roti Bakar,Makanan,Ojol,6,15000,90000
