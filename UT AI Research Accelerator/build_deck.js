@@ -123,12 +123,13 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
   s.addText("AI Research Accelerator", { placeholder: "title" });
   s.addText([
     { text: "Dari Literasi AI menuju Dampak Riset", options: { bold: true, breakLine: true } },
-    { text: "Program untuk dosen, peneliti, dan mahasiswa pascasarjana Universitas Terbuka · Oktober 2026", options: { fontSize: 14, color: C.background2 } },
+    { text: "Riset akademik dengan Claude Code, Zotero, Scite, dan Flourish", options: { fontSize: 16, color: C.background1, breakLine: true } },
+    { text: "Untuk dosen, peneliti, dan mahasiswa pascasarjana Universitas Terbuka · Oktober 2026", options: { fontSize: 14, color: C.background2 } },
   ], { placeholder: "body" });
   // motif: research icons in circles
   const coverIcons = [["FaMagnifyingGlass", 7.15, 1.0], ["FaBookOpen", 8.35, 1.75], ["FaChartColumn", 7.15, 2.5], ["FaPenNib", 8.35, 3.25]];
   for (const [n, x, y] of coverIcons) await iconCircle(s, n, x, y, 1.0, C.accent1, HEX.dk2, "Cover motif " + n);
-  s.addNotes("Pembukaan. Program ini adalah kelanjutan dari UT AI Career Accelerator, kini difokuskan pada riset akademik: bagaimana dosen, peneliti, dan mahasiswa pascasarjana memakai AI secara produktif, terverifikasi, dan sesuai etika riset.");
+  s.addNotes("Pembukaan. Program ini adalah kelanjutan dari UT AI Career Accelerator, kini difokuskan pada riset akademik. Peserta belajar memakai Claude Code sebagai agen riset yang terhubung ke Zotero (pustaka), Scite (literatur dan konteks sitasi), dan Flourish (visualisasi) melalui MCP, secara produktif, terverifikasi, dan sesuai etika riset.");
 
   // ============================================================ 2 Agenda
   s = content(SEC[0], "DAFTAR ISI", "Agenda");
@@ -248,8 +249,8 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
   s = content(SEC[3], "03 · PROGRAM OVERVIEW", "Lima Komponen Program");
   const comps = [
     ["01", "Research AI Readiness Assessment", "Mengukur baseline pengetahuan, penggunaan, dan pemahaman integritas riset terkait AI", "FaClipboardCheck"],
-    ["02", "AI Research Foundations", "Fondasi AI untuk riset: cara kerja, kebijakan, prompting, dan toolkit riset", "FaBookOpen"],
-    ["03", "AI-Assisted Research Clinic", "Menerapkan AI pada proyek riset peserta, dari pertanyaan riset hingga draf", "FaFlask"],
+    ["02", "AI Research Foundations", "Fondasi AI untuk riset dan setup Claude Code dengan Zotero, Scite, dan Flourish", "FaBookOpen"],
+    ["03", "AI-Assisted Research Clinic", "Menerapkan research AI stack pada proyek riset peserta, dari pertanyaan hingga draf", "FaFlask"],
     ["04", "Research Output & Integrity", "Mengubah hasil kerja menjadi output riset yang transparan dan siap publikasi", "FaFileSignature"],
     ["05", "Program Reporting", "Laporan partisipasi, perkembangan kemampuan, dan output riset untuk UT", "FaChartLine"],
   ];
@@ -262,6 +263,55 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
     txt(s, d, { x: 5.05, y: y + 0.05, w: 4.45, h: 0.6, fontSize: 14, color: C.text1, valign: "middle" });
   }
   s.addNotes("Strukturnya sejajar dengan program karier: assessment, fondasi, aplikasi, output, reporting. Bedanya, aplikasi dilakukan pada proyek riset nyata milik peserta.");
+
+  // ============================================================ Research AI stack
+  s = content(SEC[3], "03 · RESEARCH AI STACK", "Claude Code sebagai Pusat Alur Riset");
+  const hub = { x: 3.6, y: 2.15, w: 2.8, h: 1.35 };
+  const spokes = [
+    ["Scite", "Cari literatur dan cek konteks sitasi: mendukung atau membantah", "FaQuoteRight", 0.5, 1.35],
+    ["Zotero", "Kelola pustaka, PDF, dan format sitasi", "FaBookBookmark", 6.7, 1.35],
+    ["Flourish", "Visualisasi interaktif yang siap dipublikasikan", "FaChartPie", 0.5, 3.65],
+    ["Python / R", "Analisis data yang dijalankan dan diperiksa ulang", "FaCode", 6.7, 3.65],
+  ];
+  for (const [t, d, ic, x, y] of spokes) {
+    const cx = x < 3 ? x + 2.8 : x, cy = y + 0.55;
+    const hx = x < 3 ? hub.x : hub.x + hub.w, hy = hub.y + hub.h / 2;
+    s.addShape(pres.shapes.LINE, { x: Math.min(cx, hx), y: Math.min(cy, hy), w: Math.abs(hx - cx), h: Math.abs(hy - cy), flipV: (cy > hy) !== (cx > hx), line: { color: C.accent6, width: 1.25, dashType: "dash" }, objectName: "Connector " + t });
+  }
+  for (const [t, d, ic, x, y] of spokes) {
+    card(s, x, y, 2.8, 1.1, "Stack card " + t, C.background1, true);
+    await iconCircle(s, ic, x + 0.15, y + 0.2, 0.6, C.accent2, "FFFFFF", "Stack " + t);
+    txt(s, t, { x: x + 0.9, y: y + 0.12, w: 1.8, h: 0.3, fontSize: 15, bold: true, color: C.text2 });
+    txt(s, d, { x: x + 0.9, y: y + 0.42, w: 1.8, h: 0.65, fontSize: 12, color: C.text1 });
+  }
+  card(s, hub.x, hub.y, hub.w, hub.h, "Hub Claude Code", C.text2);
+  await iconCircle(s, "FaTerminal", hub.x + 0.2, hub.y + 0.35, 0.65, C.accent1, HEX.dk2, "Hub icon");
+  txt(s, "Claude Code", { x: hub.x + 1.0, y: hub.y + 0.28, w: 1.7, h: 0.4, fontSize: 18, bold: true, color: C.background1 });
+  txt(s, "Agen riset, terhubung via MCP", { x: hub.x + 1.0, y: hub.y + 0.68, w: 1.7, h: 0.55, fontSize: 12, color: C.background2 });
+  txt(s, [
+    { text: "Pendukung sesuai kebutuhan: ", options: { bold: true, color: C.text2 } },
+    { text: "Undermind, Semantic Scholar, NotebookLM, Quarto, GitHub", options: { color: C.text1 } },
+  ], { x: 3.6, y: 3.75, w: 2.8, h: 1.0, fontSize: 12, align: "center" });
+  s.addNotes("Claude Code adalah agen AI dari Anthropic yang bekerja langsung dengan file, menjalankan kode, dan terhubung ke tools lain melalui Model Context Protocol (MCP). Scite dan Flourish menyediakan connector MCP resmi untuk Claude (Scite membutuhkan langganan premium). Zotero terhubung melalui server MCP open-source yang memakai API lokal Zotero 7 atau Zotero Web API. Tools pendukung dipilih sesuai bidang dan lisensi UT.");
+
+  // ============================================================ Why Claude Code
+  s = content(SEC[3], "03 · RESEARCH AI STACK", "Mengapa Claude Code untuk Riset");
+  const why = [
+    ["Bekerja dengan file lokal", "Membaca PDF, dataset, dan draf di folder proyek peneliti", "FaFolderOpen"],
+    ["Terhubung ke tools riset", "Scite, Zotero, dan Flourish dipanggil langsung lewat MCP", "FaPlug"],
+    ["Alur kerja dapat diulang", "Skrip analisis dan perintah tersimpan sehingga hasil bisa direproduksi", "FaArrowsRotate"],
+    ["Jejak kerja dapat diaudit", "Setiap langkah tercatat, memudahkan pernyataan penggunaan AI", "FaClipboardList"],
+  ];
+  for (let i = 0; i < why.length; i++) {
+    const [t, d, ic] = why[i];
+    const x = 0.5 + (i % 2) * 4.6, y = 1.4 + Math.floor(i / 2) * 1.6;
+    card(s, x, y, 4.4, 1.4, "Why card " + (i + 1));
+    await iconCircle(s, ic, x + 0.25, y + 0.35, 0.7, C.text2, HEX.accent1, "Why " + (i + 1));
+    txt(s, t, { x: x + 1.15, y: y + 0.22, w: 3.05, h: 0.4, fontSize: 16, bold: true, color: C.text2 });
+    txt(s, d, { x: x + 1.15, y: y + 0.65, w: 3.05, h: 0.65, fontSize: 14, color: C.text1 });
+  }
+  txt(s, "Peserta tidak perlu latar belakang pemrograman: Claude Code tersedia di terminal, aplikasi desktop, dan web.", { x: 0.5, y: 4.65, w: 9, h: 0.35, fontSize: 14, color: C.accent6 });
+  s.addNotes("Pembeda utama dari chatbot biasa: Claude Code bekerja di dalam folder proyek riset, menjalankan analisis yang bisa diulang, dan meninggalkan jejak kerja yang mendukung transparansi. Tekankan bahwa peserta non-programmer tetap bisa memakainya dengan instruksi bahasa sehari-hari.");
 
   // ============================================================ 11 Participants
   s = content(SEC[3], "03 · PESERTA", "Tiga Jalur Peserta");
@@ -336,8 +386,8 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
   const mods = [
     ["AI & LLM untuk Riset", "Cara kerja, kemampuan, batasan, hallucination", "FaBrain"],
     ["Integritas & Kebijakan AI", "Disclosure, plagiarisme, kebijakan penerbit, data responden", "FaScaleBalanced"],
-    ["Prompting untuk Riset", "Struktur prompt, konteks, iterasi, prompt bertahap", "FaTerminal"],
-    ["Research AI Toolkit", "Pencarian literatur, referensi, analisis data, penulisan", "FaToolbox"],
+    ["Prompting & Alur Kerja Agen", "Instruksi bertahap, konteks proyek, perintah yang dapat dipakai ulang", "FaListOl"],
+    ["Setup Claude Code & MCP", "Instalasi, lalu koneksi ke Zotero, Scite, dan Flourish", "FaPlug"],
   ];
   for (let i = 0; i < mods.length; i++) {
     const [t, d, ic] = mods[i];
@@ -383,19 +433,19 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
   const cell = (t, bold) => ({ text: t, options: { fontSize: 14, color: C.text1, bold: !!bold } });
   const rows = [
     [head("Tahap"), head("Contoh tools"), head("Wajib diverifikasi")],
-    [cell("Literatur", 1), cell("Semantic Scholar, Elicit, Consensus, Scite"), cell("Sumber benar-benar ada dan isinya sesuai")],
-    [cell("Membaca & merangkum", 1), cell("NotebookLM, chatbot AI"), cell("Ringkasan sesuai teks asli")],
-    [cell("Analisis data", 1), cell("Spreadsheet, Python/R dengan asisten AI"), cell("Hitungan ulang dan asumsi statistik")],
-    [cell("Analisis kualitatif", 1), cell("Fitur AI di ATLAS.ti atau NVivo"), cell("Konsistensi koding dan interpretasi")],
-    [cell("Penulisan & referensi", 1), cell("Zotero, chatbot untuk penyuntingan"), cell("Orisinalitas, sitasi, disclosure")],
+    [cell("Literatur", 1), cell("Scite via MCP, Undermind, Semantic Scholar"), cell("Sumber ada; konteks sitasi mendukung atau membantah")],
+    [cell("Pustaka & sitasi", 1), cell("Zotero via MCP"), cell("Metadata lengkap dan format sitasi benar")],
+    [cell("Analisis data", 1), cell("Claude Code menjalankan Python/R"), cell("Kode dibaca ulang, hasil direproduksi")],
+    [cell("Visualisasi", 1), cell("Flourish via MCP"), cell("Angka di grafik sesuai data sumber")],
+    [cell("Penulisan", 1), cell("Claude Code + Markdown/Quarto"), cell("Orisinalitas, sitasi dari Zotero, disclosure")],
   ];
   s.addTable(rows, {
-    x: 0.5, y: 1.4, w: 9, colW: [2.2, 3.5, 3.3], rowH: 0.5,
+    x: 0.5, y: 1.4, w: 9, colW: [1.9, 3.5, 3.6], rowH: 0.5,
     border: { type: "solid", pt: 0.75, color: HEX.lt2 }, fill: { color: HEX.lt1 }, valign: "middle", margin: 0.08,
     objectName: "Tools table",
   });
   txt(s, "Tools dapat disesuaikan dengan langganan dan lisensi yang dimiliki UT.", { x: 0.5, y: 4.75, w: 9, h: 0.3, fontSize: 12, color: C.accent6 });
-  s.addNotes("Contoh tools nyata yang umum dipakai; pilihan akhir disesuaikan dengan lisensi UT. Prinsipnya: AI boleh mempercepat setiap tahap, tetapi kolom kanan selalu dikerjakan oleh peneliti.");
+  s.addNotes("Inti stack: Claude Code + Scite + Zotero + Flourish; tools lain ditambahkan sesuai bidang. Smart Citations Scite menunjukkan apakah sebuah paper dikutip untuk mendukung atau membantah, sehingga verifikasi bukan sekadar mengecek keberadaan sumber. Prinsipnya: AI boleh mempercepat setiap tahap, tetapi kolom kanan selalu dikerjakan oleh peneliti.");
 
   // ============================================================ 17 Case example
   s = content(SEC[3], "03 · CASE EXAMPLE", "Tinjauan Pustaka Sistematis dengan AI");
@@ -404,12 +454,12 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
   txt(s, "Seorang dosen ingin memetakan riset tentang pembelajaran jarak jauh di Indonesia periode 2020–2025.", { x: 0.75, y: 1.95, w: 2.6, h: 1.6, fontSize: 16, color: C.background1 });
   txt(s, "Output: draf tinjauan pustaka dengan diagram PRISMA dan pernyataan penggunaan AI", { x: 0.75, y: 3.7, w: 2.6, h: 1.0, fontSize: 14, color: C.background2 });
   const cs = [
-    ["RUMUSKAN", "Pertanyaan dan kriteria inklusi"],
-    ["TELUSURI", "Scopus, Garuda, dan pencarian berbasis AI"],
+    ["TELUSURI", "Claude Code mencari via Scite, ditambah Garuda"],
+    ["SIMPAN", "Artikel terpilih masuk koleksi Zotero"],
     ["SARING", "AI membantu screening; peneliti memutuskan"],
-    ["EKSTRAKSI", "Tabel temuan dengan bantuan NotebookLM"],
-    ["VERIFIKASI", "Cek DOI dan baca ulang sampel artikel"],
-    ["SINTESIS", "Draf, diagram PRISMA, dan disclosure"],
+    ["EKSTRAKSI", "Claude Code menyusun tabel temuan"],
+    ["VISUALISASI", "Tren dan peta temuan dibuat di Flourish"],
+    ["SINTESIS", "Draf bersitasi Zotero, PRISMA, disclosure"],
   ];
   cs.forEach(([t, d], i) => {
     const x = 3.85 + (i % 2) * 2.85, y = 1.4 + Math.floor(i / 2) * 1.2;
@@ -418,7 +468,7 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
     txt(s, t, { x: x + 0.65, y: y + 0.05, w: 2.0, h: 0.3, fontSize: 15, bold: true, color: C.text2 });
     txt(s, d, { x: x + 0.65, y: y + 0.38, w: 2.0, h: 0.75, fontSize: 14, color: C.text1 });
   });
-  s.addNotes("Contoh kasus untuk clinic. Pembagian peran ditekankan: AI mempercepat penelusuran, screening awal, dan ekstraksi; keputusan inklusi dan interpretasi tetap milik peneliti.");
+  s.addNotes("Contoh kasus untuk clinic, seluruhnya dijalankan dari satu folder proyek di Claude Code. Verifikasi dilakukan di setiap langkah: cek DOI dan Smart Citations Scite, baca ulang sampel artikel, dan cocokkan angka grafik dengan tabel. Keputusan inklusi dan interpretasi tetap milik peneliti.");
 
   // ============================================================ 18 Phase 3
   s = content(SEC[3], "03 · PHASE 3 · ±2 JAM · ASYNC + KONSULTASI", "Research Output & Integrity");
@@ -493,7 +543,7 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
   s = content(SEC[4], "04 · INVESTASI", "Program Investment");
   txt(s, "Investasi program ditanggung oleh Universitas Terbuka sebagai bagian dari inisiatif penguatan kapasitas riset berbasis AI.", { x: 0.5, y: 1.4, w: 5.2, h: 0.8, fontSize: 15, color: C.text1 });
   txt(s, "INVESTMENT INCLUDES", { x: 0.5, y: 2.35, w: 5.2, h: 0.3, fontSize: 12, bold: true, color: C.accent2 });
-  const inc = ["Desain program dan konten", "Async learning dan live workshop", "Research clinic dan mentoring", "Assessment baseline, checkpoint, endline", "Dukungan output riset dan integritas", "Program reporting"];
+  const inc = ["Desain program dan konten", "Async learning dan live workshop", "Research clinic dan mentoring", "Panduan setup Claude Code, Zotero, Scite, Flourish", "Assessment dan dukungan output riset", "Program reporting"];
   txt(s, inc.map((t, j) => ({ text: t, options: { bullet: true, breakLine: j < inc.length - 1 } })), { x: 0.5, y: 2.7, w: 5.2, h: 2.3, fontSize: 14, color: C.text1, paraSpaceAfter: 4 });
   card(s, 6.0, 1.4, 3.5, 3.55, "Investment panel", C.text2);
   txt(s, "UT AI RESEARCH ACCELERATOR", { x: 6.25, y: 1.6, w: 3.0, h: 0.3, fontSize: 12, bold: true, color: C.accent1 });
@@ -502,7 +552,7 @@ const SEC = ["Pembuka", "01 Tentang IYKRA", "02 Pendahuluan", "03 UT AI Research
   txt(s, "dosen, peneliti, dan mahasiswa pascasarjana", { x: 6.25, y: 2.8, w: 3.0, h: 0.6, fontSize: 14, color: C.background2 });
   txt(s, "Nilai investasi", { x: 6.25, y: 3.55, w: 3.0, h: 0.3, fontSize: 14, color: C.background2 });
   txt(s, "Disusun setelah konfirmasi jumlah peserta dan cakupan", { x: 6.25, y: 3.85, w: 3.0, h: 0.9, fontSize: 15, bold: true, color: C.background1 });
-  s.addNotes("Usulan cakupan 300 peserta adalah asumsi awal untuk diskusi; research clinic membutuhkan kelompok kecil sehingga skalanya lebih kecil dari program karier (1.000 mahasiswa). Nilai investasi sengaja belum dicantumkan.");
+  s.addNotes("Usulan cakupan 300 peserta adalah asumsi awal untuk diskusi; research clinic membutuhkan kelompok kecil sehingga skalanya lebih kecil dari program karier (1.000 mahasiswa). Nilai investasi sengaja belum dicantumkan. Catatan biaya: langganan Claude dan Scite Premium belum termasuk dan perlu diputuskan (disediakan UT atau oleh peserta); Zotero dan akun Flourish dasar gratis.");
 
   // ============================================================ 23 Next steps
   s = pres.addSlide({ masterName: "CLOSING", sectionTitle: SEC[4] });
